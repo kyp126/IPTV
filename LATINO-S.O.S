@@ -230,7 +230,6 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/64380
 #EXTINF:-1,TELEAMAZONAS (ECU)
 http://66.northerniptv.ca:8000/shelley321/shelley321/64379
 #EXTINF:-1,=== PERU === (18)
-!
 #EXTINF:-1,AMERICA TV (PERU)
 http://66.northerniptv.ca:8000/shelley321/shelley321/15315
 #EXTINF:-1,ATV HD (PERU)
@@ -292,7 +291,6 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/86884
 #EXTINF:-1,CANAL 7 PUNTA (URU)
 http://66.northerniptv.ca:8000/shelley321/shelley321/86885
 #EXTINF:-1,=== VENEZUELA === (13)
-!
 #EXTINF:-1,GLOBO VISION (VEN)
 http://66.northerniptv.ca:8000/shelley321/shelley321/48022
 #EXTINF:-1,VENEVISION (NA) - NEW
