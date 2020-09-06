@@ -1,0 +1,30 @@
+#EXTM3U
+
+
+#EXTINF:-1,UNITEL LA PAZ
+https://livestream.com/accounts/8665913/events/3330503
+
+#EXTINF:-1,UNITEL SANTA CRUZ
+https://livestream.com/accounts/8665913/events/4253600/
+
+#EXTINF:-1,RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w598576665.m3u8
+
+
+#EXTINF:-1,BOLIVISION
+https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5NTEzMTY5LCJzZXNzaW9uIjoiMjAwLjg3LjkyLjIxOCIsIndoaXRlbGlzdCI6WyIyMDAuODcuOTIuMjE4Il19LCJzaWduYXR1cmUiOiIwOWRhYmUzOWNhNTY2ZmEyY2FhNDU2NGFmNzU0YWJmYTIyMDBlYjkxIn0%3D
+
+#EXTINF:-1,CINE: BOLIVIA TV 7.1
+https://5ca9af4645e15.streamlock.net/boliviatv/smil:boliviatv.smil/chunklist_w1095390947_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjAgOToyMzoyMiBQTSZoYXNoX3ZhbHVlPW51MklDRnN0NlpkOHpsd0lTb0NHZkE9PSZ2YWxpZG1pbnV0ZXM9NTAmaWQ9
+
+
+#EXTINF:-1,CANAL UNIVERSITARIO 13
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w1706600270.m3u8
+
+#EXTINF:-1,CATOLICA TV
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/chunklist_w1814393755.m3u8
+
+#EXTINF:-1,CADENA A
+
+#EXTINF:-1,PAT
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w189053568.m3u8
