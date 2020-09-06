@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1,ATB RADIO
+https://streamingenbolivia.com/8006/stream
+
+#EXTINF:-1,RADIO DISNEY
+https://cento02.mipanelradio.com/proxy/cruxmedi?mp=/stream/1/
+
+#EXTINF:-1,RADIO LA PAZ
+https://node-10.zeno.fm/txqsgaw4wqzuv?rj-ttl=5&rj-tok=AAABdGWDY-sAHHDBhRVEnrvedA
+
+#EXTINF:-1,RADIO FIDES
+https://usa7.fastcast4u.com/proxy/grflores?mp=/stream/1/
+
+#EXTINF:-1,CHACALTAYA
+https://cloudstream2032.conectarhosting.com/9364/stream
+
+#EXTINF:-1,RED PATRIA NUEVA
+http://190.129.90.43:8000/stream/1/
+
+#EXTINF:-1,MELODIA
+https://node-29.zeno.fm/472k0sw4wqzuv?rj-ttl=5&rj-tok=AAABdGWHKAsAoGvdPh3t4x1QDg
+
+#EXTINF:-1,STEREO 97
+https://node-26.zeno.fm/9vxc95w4wqzuv?rj-ttl=5&rj-tok=AAABdGWHpWAAM8Epu1CMHXuYJA
+
+#EXTINF:-1,RADIO ACTIVA
+http://streamserver.ml:7002/stream/1/
+
+#EXTINF:-1,EL DEBER RADIO SANTA CRUZ
+https://services.eldeber.com.bo/live
+
+#EXTINF:-1,ESTELAR
+http://104.248.51.135:8000/stelar
+
+#EXTINF:-1,WKM ORURO
+https://us-b4-p-e-zx8-audio.cdn.mdstrm.com/live-audio/5c255b6a2856d158a734dba3/5df7cf305396b836ef541c12/chunks.m3u8?nimblesessionid=14905351&cP=128000&dnt=true&es=us-b4-p-e-zx8-audio.cdn.mdstrm.com&ot=3dU0cb0Q0d9e4tdwV7N7mA&ote=1599518545298&pid=wBFodF7xzeryung0nWL7BMX5DXk5HfoS&proto=https&pz=us&ref=www.wkmradio.com&sid=aBK69L73kkKDj0otdDQRh5LkJ80hEYOm&uid=guWBhiig9rmGv2qjeTk41u9vdFP0gTVt
+
+#EXTINF:-1,RADIO MEGA DJ
+https://node-30.zeno.fm/zyu31nv6twzuv?rj-ttl=5&rj-tok=AAABdGWfuLsAnsshX8iCiFHvaQ
+
+#EXTINF:-1,RADIO CAMARGO
+https://node-22.zeno.fm/kgse9gnb2eruv.aac?rj-ttl=5&rj-tok=AAABdGWgMgYAvzfJl83AmL6KZw
+
+#EXTINF:-1,DOBLE 8
+http://209.133.216.3:7368/live
+
+#EXTINF:-1,RADIO SAN GABRIEL EL ALTO
+http://198.49.68.60:9980/stream/1/
+
+#EXTINF:-1,DESEO
+https://conectperu.com/8046/stream/1/
+
+#EXTINF:-1,RADIO ALTIPLANO SANTA CRUZ
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w105664309.m3u8
