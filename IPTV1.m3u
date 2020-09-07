@@ -1,0 +1,589 @@
+#EXTM3U
+
+#EXTINF:-1, Cloud Server Kids
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  Pintana TV
+https://tls.cdnz.cl/lapintana/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, HiperTV
+http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Rewind TV
+https://srv2.zcast.com.br/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Retro Plus TV Señal 2
+https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, uRV TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, El Chavo TV
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CSTV
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, The Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Mi TV Televisión Clásica
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Sol TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?DVR&PlaylistM3UCL
+
+#EXTINF:-1, Latinos Up! TV
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Tele Mas
+https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Retro TV Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Rec Online
+https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Frecuencia Musical TV
+https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TVMas Chile
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Anime Loving TV
+http://animeloving.net/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, El 3 de Conce
+https://panel.livetvvideo.net:1936/8250/8250/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Pichilemu TV
+http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Exprezion TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Peña Visión TV
+https://tvstreaming.cl:1936/PlanDjTv_15/PlanDjTv_15/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal 10 ARTV
+https://panel.livetvvideo.net:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, STGO.TV
+https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Campus TV
+https://unlimited6-cl.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Universidad Autonoma TV
+https://unlimited2-cl.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, U Los Lagos
+http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, UMAG TV
+https://tls.cdnz.cl/tser5/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, UMAG TV 2
+https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   UesTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Chile Channel
+https://v2.tustreaming.cl/chilechannel/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV Salud
+https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Campo Abierto TV
+https://v2.tustreaming.cl/campoabierto/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, tevex
+https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, LosDesterrados.cl
+https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Contexto Ñuble
+https://hd.chileservidores.cl:1936/contextonuble/contextonuble/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CEAC TV
+https://videostreaming.cloudserverlatam.com:443/ceactv/ceactv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Arab TV
+https://livefocamundo.com:8081/8160/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Poder Judicial
+http://unlimited1-us.dps.live/poderjudicial1/poderjudicial1.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   Arica TV
+https://5d1ca66d2d698.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Cappissima Multimedial TV
+http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Puerta Norte
+https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Antofagasta TV
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, AM Canal
+https://v2.tustreaming.cl/amtv/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TVO Tocopilla
+http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Holvoet TV
+https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Atacama Noticias
+https://srv1.zcast.com.br/atacamanoticias/atacamanoticias/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Atacama TV
+https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal Costa TV
+https://inliveserver.com:1936/10504/10504/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   ThemaTV
+https://unlimited2-cl.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, América TV Chile
+https://srv4.zcast.com.br/erickzambra/erickzambra/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal VTV Los Andes - San Felipe
+https://unlimited10-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Quinta TV
+https://livefocamundo.com:8081/8164/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Estudio TV
+https://5d8b8e0ea0b59.streamlock.net/estudio-tv/estudio-tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal de la Costa
+https://livefocamundo.com:8081/8178/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Girovisual TV
+http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   Canal 2 de San Antonio
+http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV Costa
+http://cdn.streamingmedia.cl:1935/live/canalcosta/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal 74 TeVe
+https://srv3.zcast.com.br/canal74/canal74/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  TVR
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV El Central
+https://593b04c4c5670.streamlock.net:443/8172/8172/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Tendencias TV
+https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TU Canal TV Colina
+http://hd.chileservidores.cl:8080/colina/colina/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Buin Somos Todos
+https://bst.buin.cl/0.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal 57 Melipilla
+https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Sextavision
+https://590c5dc5c3271.streamlock.net/carlos107/carlos107/playlist.m3u8?DVR&PlaylistM3UCL
+
+#EXTINF:-1, TVR Canal 11
+https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Telecanal Talca
+https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV Maulinos
+https://590c5dc5c3271.streamlock.net/tvmaulinos354/tvmaulinos354/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV 5 Linares
+https://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, UTV San Clemente
+https://v2.tustreaming.cl/utvsc/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Tele2 Web
+https://inliveserver.com:1936/11516/11516/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   Canal 21 Chillán
+https://tls.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   Estacion TV
+http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, ClickTv
+http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Restaurando Vidas TV
+http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV8
+https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Pucon TV
+http://unlimited2-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Temuco TV
+https://5d1ca66d2d698.streamlock.net:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   Canal 33 Temuco
+https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TecTV
+http://190.107.176.55:1935/live/tec-tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal Latino 54
+http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Osorno TV+
+https://593b04c4c5670.streamlock.net/8108/8108/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Decima TV
+http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal 2 Quellón
+https://unlimited1-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Vision TV
+https://novo.bitstreaming.info:1936/visiontv/visiontv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal Chilote
+http://hd.chileservidores.cl:8080/reseller/chiloe2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal Survision Alerce
+http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal 5 Puerto Montt
+https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Chiloe Red 25
+https://v2.tustreaming.cl/chiloered/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Rocco TV 4
+http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Soberania Radio
+https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   ITV Patagonia
+https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal Sur Patagonia
+https://v2.tustreaming.cl/canalsurpatagonia/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   PinguinoTV
+http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Net TV
+https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Telesur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Telesur English
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CBS News
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Weather Channel
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, DW Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, ETB
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, RTVE1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, RTVE24
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, DW Deutsch
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CDO
+http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV Turf Movil
+https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Teletrak
+https://unlimited10-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TuTv Quillota
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Natural TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, DJ Loncho TV
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Classic Mix
+https://ssh101.bozztv.com/DIGIMEDIOS/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Telemusica
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Otto FM TV
+http://217.182.192.240:8080/hls/ottofmtv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, +Cumbia
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Hatun TV
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TV Uniao
+https://stmv1.srvif.com/tvu/tvu/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Top TV
+https://5d23bdca513db.streamlock.net/8006/8006/playlist-480p.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Mix 24-7 TV
+https://593d7fe3c9b0d.streamlock.net:443/8114/8114/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  Zona Play Radio
+https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Zeta
+https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Extasis
+https://593b04c4c5670.streamlock.net:443/8158/8158/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Actitud
+https://593b04c4c5670.streamlock.net/8020/8020/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Más
+http://unlimited1-cl.dps.live/radiomas/radiomas.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, ChocolateFM
+https://paneltv.online:1936/8022/8022/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CCP Radio
+http://hd.chileservidores.cl:8080/ccpradio/ccpradio/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Touch
+https://593b04c4c5670.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Mi Radio TV
+https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, FM Pulso
+https://panel.tvstream.cl:1936/8004/8004/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, El Sembrador
+https://5d1ca66d2d698.streamlock.net:1936/8064/8064/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Corporacion
+https://v2.tustreaming.cl/corporacion/s1-500k/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Red Fueguina Radio
+https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Ritmo FM
+https://5d1ca66d2d698.streamlock.net:1936/8032/8032/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Universal
+https://hd.chileservidores.cl:1936/universal/universal/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Fiessta
+https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Orocoipo
+https://593b04c4c5670.streamlock.net:443/8076/8076/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Sabor Tropical
+https://v2.tustreaming.cl/sabortv/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Polar
+http://video.mediostream.cl/radiopolar/live1/rewind-999999.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Beat TV
+https://inliveserver.com:1936/10520/10520/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Cosmos
+http://v2.tustreaming.cl:80/cosmostv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, AncoaTV
+http://v2.tustreaming.cl:80/radioancoa/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Hoy
+https://593b04c4c5670.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Preludio TV
+https://5d1ca66d2d698.streamlock.net:1936/8068/8068/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Las Nieves
+https://v2.tustreaming.cl/rln/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Chiloe
+https://5e9199339b303.streamlock.net:8100/reseller/chiloe1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Camila TV
+https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, InterRadio TV
+https://5cf4a2c2512a2.streamlock.net/interradiofrutillar/interradiofrutillar/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Genial TV
+https://v2.tustreaming.cl/genialtv/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Presidente Ibañez
+https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, AE Radio
+https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Interamericana TV
+http://unlimited6-cl.dps.live/interamericanatv/interamericanatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Favorita
+https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Rancagua
+https://5d1ca66d2d698.streamlock.net:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, El Conquistador TV
+http://v3.tustreaming.cl/conquistadorcc/live1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Via Libre
+https://panel.livetvvideo.net:1936/8006/8006/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Bio Bio TV
+https://unlimited1-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Infinita
+https://unlimited4-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TNE
+https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal Dios Te Ve
+https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Dios Te Ve Kids
+https://reproductor.latin.mx/latin/Dios/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Radio Vida Curico
+http://v2.tustreaming.cl/radiovidacurico/live1/rewind-999999.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   Gracia TV
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal ISB
+http://unlimited10-cl.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, NCTV
+http://unlimited10-cl.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,   Televida HD
+https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Extrema TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, RC Radio
+https://5d52c82b4a7e3.streamlock.net:1936/8054/8054/playlist.m3u8?PlaylistM3UCL
