@@ -1,589 +1,539 @@
 #EXTM3U
-
-#EXTINF:-1, Cloud Server Kids
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  Pintana TV
-https://tls.cdnz.cl/lapintana/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, HiperTV
-http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Rewind TV
-https://srv2.zcast.com.br/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Retro Plus TV
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Retro Plus TV Señal 2
-https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Awka
-https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Conecta TV
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Ruidos TV
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, uRV TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, El Chavo TV
-https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, CSTV
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Zee Mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, The Retro Channel
-https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Mi TV Televisión Clásica
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Sol TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?DVR&PlaylistM3UCL
-
-#EXTINF:-1, Latinos Up! TV
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Tele Mas
-https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Telered
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Telesistema
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Retro TV Palmares
-http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Rec Online
-https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Frecuencia Musical TV
-https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TVMas Chile
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Anime Loving TV
-http://animeloving.net/hls/stream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, El 3 de Conce
-https://panel.livetvvideo.net:1936/8250/8250/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Pichilemu TV
-http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Exprezion TV
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Peña Visión TV
-https://tvstreaming.cl:1936/PlanDjTv_15/PlanDjTv_15/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal 10 ARTV
-https://panel.livetvvideo.net:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, STGO.TV
-https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Campus TV
-https://unlimited6-cl.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Universidad Autonoma TV
-https://unlimited2-cl.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, U Los Lagos
-http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, UMAG TV
-https://tls.cdnz.cl/tser5/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, UMAG TV 2
-https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   UesTV
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Chile Channel
-https://v2.tustreaming.cl/chilechannel/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV Salud
-https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Campo Abierto TV
-https://v2.tustreaming.cl/campoabierto/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, tevex
-https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, LosDesterrados.cl
-https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Contexto Ñuble
-https://hd.chileservidores.cl:1936/contextonuble/contextonuble/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, CEAC TV
-https://videostreaming.cloudserverlatam.com:443/ceactv/ceactv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Arab TV
-https://livefocamundo.com:8081/8160/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  TV Senado
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Poder Judicial
-http://unlimited1-us.dps.live/poderjudicial1/poderjudicial1.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   Arica TV
-https://5d1ca66d2d698.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Cappissima Multimedial TV
-http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Puerta Norte
-https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Antofagasta TV
-https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, AM Canal
-https://v2.tustreaming.cl/amtv/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TVO Tocopilla
-http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Holvoet TV
-https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Atacama Noticias
-https://srv1.zcast.com.br/atacamanoticias/atacamanoticias/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Atacama TV
-https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal Costa TV
-https://inliveserver.com:1936/10504/10504/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   ThemaTV
-https://unlimited2-cl.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, América TV Chile
-https://srv4.zcast.com.br/erickzambra/erickzambra/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal VTV Los Andes - San Felipe
-https://unlimited10-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Quinta TV
-https://livefocamundo.com:8081/8164/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Estudio TV
-https://5d8b8e0ea0b59.streamlock.net/estudio-tv/estudio-tv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal de la Costa
-https://livefocamundo.com:8081/8178/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Girovisual TV
-http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   Canal 2 de San Antonio
-http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV Costa
-http://cdn.streamingmedia.cl:1935/live/canalcosta/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal 74 TeVe
-https://srv3.zcast.com.br/canal74/canal74/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  TVR
-https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV El Central
-https://593b04c4c5670.streamlock.net:443/8172/8172/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Tendencias TV
-https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TU Canal TV Colina
-http://hd.chileservidores.cl:8080/colina/colina/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Buin Somos Todos
-https://bst.buin.cl/0.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal 57 Melipilla
-https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Sextavision
-https://590c5dc5c3271.streamlock.net/carlos107/carlos107/playlist.m3u8?DVR&PlaylistM3UCL
-
-#EXTINF:-1, TVR Canal 11
-https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Telecanal Talca
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV Maulinos
-https://590c5dc5c3271.streamlock.net/tvmaulinos354/tvmaulinos354/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV 5 Linares
-https://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, UTV San Clemente
-https://v2.tustreaming.cl/utvsc/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Tele2 Web
-https://inliveserver.com:1936/11516/11516/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   Canal 21 Chillán
-https://tls.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   Estacion TV
-http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, ClickTv
-http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Restaurando Vidas TV
-http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV8
-https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Pucon TV
-http://unlimited2-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Temuco TV
-https://5d1ca66d2d698.streamlock.net:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   Canal 33 Temuco
-https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TecTV
-http://190.107.176.55:1935/live/tec-tv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal Latino 54
-http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Osorno TV+
-https://593b04c4c5670.streamlock.net/8108/8108/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Decima TV
-http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal 2 Quellón
-https://unlimited1-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Vision TV
-https://novo.bitstreaming.info:1936/visiontv/visiontv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal Chilote
-http://hd.chileservidores.cl:8080/reseller/chiloe2/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal Survision Alerce
-http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal 5 Puerto Montt
-https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Chiloe Red 25
-https://v2.tustreaming.cl/chiloered/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Rocco TV 4
-http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Soberania Radio
-https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   ITV Patagonia
-https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal Sur Patagonia
-https://v2.tustreaming.cl/canalsurpatagonia/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   PinguinoTV
-http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Net TV
-https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Telesur
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Telesur English
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, CBS News
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Weather Channel
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, CGNTV Japan
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, ETB
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, RTVE1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, RTVE24
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV Galicia America
-http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, DW Deutsch
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, CDO
-http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV Turf Movil
-https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Teletrak
-https://unlimited10-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Retro Music Television
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TuTv Quillota
-https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Natural TV
-http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, DJ Loncho TV
-https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Classic Mix
-https://ssh101.bozztv.com/DIGIMEDIOS/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  Portal FoxMix
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Alegria TV
-https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Maxima FM
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV vconline.cl
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TOP Latino TV
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Telemusica
-https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal 38
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Best Cable Music
-https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, +Cumbia
-https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Hatun TV
-https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV Uniao
-https://stmv1.srvif.com/tvu/tvu/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Top TV
-https://5d23bdca513db.streamlock.net/8006/8006/playlist-480p.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Mix 24-7 TV
-https://593d7fe3c9b0d.streamlock.net:443/8114/8114/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  Zona Play Radio
-https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Zeta
-https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Extasis
-https://593b04c4c5670.streamlock.net:443/8158/8158/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Actitud
-https://593b04c4c5670.streamlock.net/8020/8020/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Más
-http://unlimited1-cl.dps.live/radiomas/radiomas.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, ChocolateFM
-https://paneltv.online:1936/8022/8022/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, CCP Radio
-http://hd.chileservidores.cl:8080/ccpradio/ccpradio/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Touch
-https://593b04c4c5670.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Mi Radio TV
-https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, FM Pulso
-https://panel.tvstream.cl:1936/8004/8004/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, El Sembrador
-https://5d1ca66d2d698.streamlock.net:1936/8064/8064/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Corporacion
-https://v2.tustreaming.cl/corporacion/s1-500k/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Red Fueguina Radio
-https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Ritmo FM
-https://5d1ca66d2d698.streamlock.net:1936/8032/8032/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Universal
-https://hd.chileservidores.cl:1936/universal/universal/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Fiessta
-https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Orocoipo
-https://593b04c4c5670.streamlock.net:443/8076/8076/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Sabor Tropical
-https://v2.tustreaming.cl/sabortv/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Polar
-http://video.mediostream.cl/radiopolar/live1/rewind-999999.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Beat TV
-https://inliveserver.com:1936/10520/10520/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Cosmos
-http://v2.tustreaming.cl:80/cosmostv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, AncoaTV
-http://v2.tustreaming.cl:80/radioancoa/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Hoy
-https://593b04c4c5670.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Preludio TV
-https://5d1ca66d2d698.streamlock.net:1936/8068/8068/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Las Nieves
-https://v2.tustreaming.cl/rln/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Chiloe
-https://5e9199339b303.streamlock.net:8100/reseller/chiloe1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Camila TV
-https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, InterRadio TV
-https://5cf4a2c2512a2.streamlock.net/interradiofrutillar/interradiofrutillar/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Genial TV
-https://v2.tustreaming.cl/genialtv/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Presidente Ibañez
-https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, AE Radio
-https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Interamericana TV
-http://unlimited6-cl.dps.live/interamericanatv/interamericanatv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Favorita
-https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Rancagua
-https://5d1ca66d2d698.streamlock.net:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, El Conquistador TV
-http://v3.tustreaming.cl/conquistadorcc/live1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Via Libre
-https://panel.livetvvideo.net:1936/8006/8006/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Bio Bio TV
-https://unlimited1-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Infinita
-https://unlimited4-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TNE
-https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal Dios Te Ve
-https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Dios Te Ve Kids
-https://reproductor.latin.mx/latin/Dios/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Radio Vida Curico
-http://v2.tustreaming.cl/radiovidacurico/live1/rewind-999999.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   Gracia TV
-http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal ISB
-http://unlimited10-cl.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Nuevo Tiempo
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, NCTV
-http://unlimited10-cl.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,   Televida HD
-https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Extrema TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, RC Radio
-https://5d52c82b4a7e3.streamlock.net:1936/8054/8054/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,24/7  Caillou
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/148
+#EXTINF:-1,24/7  CORAJE Agallas, el perro cobarde
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/167
+#EXTINF:-1,24/7  CUENTRO GREEM
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/169
+#EXTINF:-1,24/7  DINOSAURIOS 1991
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/173
+#EXTINF:-1,24/7  Dragon Ball 1984
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/174
+#EXTINF:-1,24/7  Los Simpson
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/137
+#EXTINF:-1,24/7  South Park
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/139
+#EXTINF:-1,24/7  The Walking Dead
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/145
+#EXTINF:-1,24/7 ALF
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/171
+#EXTINF:-1,24/7 Barney y sus amigos
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/146
+#EXTINF:-1,24/7 BOB ESPONJA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/147
+#EXTINF:-1,24/7 Breaking Bad
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/161
+#EXTINF:-1,24/7 CABALLEROS DEL ZODIACO
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/162
+#EXTINF:-1,24/7 CANTINFLAS
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/195
+#EXTINF:-1,24/7 CSI: Miami
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/168
+#EXTINF:-1,24/7 Death note
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/193
+#EXTINF:-1,24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/150
+#EXTINF:-1,24/7 Dragon Ball GT 1996
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/175
+#EXTINF:-1,24/7 Dragon Ball Super
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/170
+#EXTINF:-1,24/7 Dragon Ball Z 1989
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/176
+#EXTINF:-1,24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/177
+#EXTINF:-1,24/7 El Chavo del 8
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/164
+#EXTINF:-1,24/7 EL CHEMA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/165
+#EXTINF:-1,24/7 El Coyote y el Correcaminos
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/149
+#EXTINF:-1,24/7 El señor de los cielos
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/166
+#EXTINF:-1,24/7 Escobar: el patrón del mal
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/178
+#EXTINF:-1,24/7 Futurama 1999
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/180
+#EXTINF:-1,24/7 Happy Tree Friends
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/151
+#EXTINF:-1,24/7 He-Man
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/182
+#EXTINF:-1,24/7 HÉROES EN PIJAMAS
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/157
+#EXTINF:-1,24/7 Juego de tronos
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/181
+#EXTINF:-1,24/7 LA CASA DE PAPEL
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/163
+#EXTINF:-1,24/7 La Familia Monster 1964
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/185
+#EXTINF:-1,24/7 La hora pico
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/156
+#EXTINF:-1,24/7 La pantera rosa
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/154
+#EXTINF:-1,24/7 La Risa en Vacaciones
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/152
+#EXTINF:-1,24/7 LA ROSA DE GUADALUPE
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/183
+#EXTINF:-1,24/7 LazyTown
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/153
+#EXTINF:-1,24/7 LE TEMES ALA OSCURIDAD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/194
+#EXTINF:-1,24/7 Los años maravillosos 1988
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/188
+#EXTINF:-1,24/7 Los locos Addams
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/184
+#EXTINF:-1,24/7 Luis Miguel, la serie 2018
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/186
+#EXTINF:-1,24/7 Malcolm in the middle 2000
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/187
+#EXTINF:-1,24/7 Mazinger Z
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/189
+#EXTINF:-1,24/7 Naruto
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/190
+#EXTINF:-1,24/7 Peliculas de terror
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/143
+#EXTINF:-1,24/7 PELICULAS; ESTRENOS 2018
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/179
+#EXTINF:-1,24/7 Peppa PIG LA CERDITA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/155
+#EXTINF:-1,24/7 Pinky y Cerebro 1995
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/191
+#EXTINF:-1,24/7 Pokémon
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/192
+#EXTINF:-1,24/7 Power Rangers
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/134
+#EXTINF:-1,24/7 Robotech
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/135
+#EXTINF:-1,24/7 Sailor Moon
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/136
+#EXTINF:-1,24/7 Shark Tank México TEP 1
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/159
+#EXTINF:-1,24/7 Shark Tank México TEP 2
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/158
+#EXTINF:-1,24/7 shera
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/172
+#EXTINF:-1,24/7 Smallville
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/138
+#EXTINF:-1,24/7 Spider-Man
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/140
+#EXTINF:-1,24/7 Stranger Things
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/141
+#EXTINF:-1,24/7 Super Campeones
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/142
+#EXTINF:-1,24/7 Thundercats
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/144
+#EXTINF:-1,24/7 XMEN ANIME
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/160
+#EXTINF:-1,A&E
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/197
+#EXTINF:-1,AMC
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/198
+#EXTINF:-1,Animal Planet
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/200
+#EXTINF:-1,Antena 3
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/201
+#EXTINF:-1,Atres Series
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/202
+#EXTINF:-1,AXN
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/199
+#EXTINF:-1,Azcorazon
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/203
+#EXTINF:-1,Azmundo
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/204
+#EXTINF:-1,Baby TV
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/206
+#EXTINF:-1,BBC World
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/205
+#EXTINF:-1,Boomerang
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/207
+#EXTINF:-1,Canal Claro
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/210
+#EXTINF:-1,Canal del Congreso
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/211
+#EXTINF:-1,Cartoon Network
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/212
+#EXTINF:-1,Cine Latino
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/214
+#EXTINF:-1,CineCanal
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/215
+#EXTINF:-1,Cinema Dinamita
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/217
+#EXTINF:-1,CineMax
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/216
+#EXTINF:-1,Claro Cinema
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/218
+#EXTINF:-1,Claro Musica
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/219
+#EXTINF:-1,CLARO SPORTS
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/208
+#EXTINF:-1,CONCERT CHANNEL
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/209
+#EXTINF:-1,Concert Channel
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/220
+#EXTINF:-1,Discovery Channel
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/221
+#EXTINF:-1,Discovery Civilization
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/222
+#EXTINF:-1,Discovery Home & Health
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/223
+#EXTINF:-1,Discovery Kids
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/224
+#EXTINF:-1,Discovery Science
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/225
+#EXTINF:-1,Discovery Turbo
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/226
+#EXTINF:-1,Disney
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/227
+#EXTINF:-1,Disney JR
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/228
+#EXTINF:-1,Disney XD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/229
+#EXTINF:-1,E!
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/230
+#EXTINF:-1,El Gourmet
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/237
+#EXTINF:-1,EURO Channel
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/235
+#EXTINF:-1,EWTN
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/236
+#EXTINF:-1,Fashion One
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/250
+#EXTINF:-1,Film & Arts
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/251
+#EXTINF:-1,FOX
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/238
+#EXTINF:-1,FOX COMEDY
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/239
+#EXTINF:-1,FOX LIFE
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/240
+#EXTINF:-1,Fox News
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/252
+#EXTINF:-1,FOX SERIES
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/241
+#EXTINF:-1,FOX+ACT
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/243
+#EXTINF:-1,FOX+CLA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/244
+#EXTINF:-1,FOX+FAM
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/245
+#EXTINF:-1,FOX+MOV
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/246
+#EXTINF:-1,FUTV
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/247
+#EXTINF:-1,FX
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/248
+#EXTINF:-1,FX Movies
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/249
+#EXTINF:-1,Golden
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/255
+#EXTINF:-1,Golf Channel
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/256
+#EXTINF:-1,H2
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/257
+#EXTINF:-1,HBO
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/258
+#EXTINF:-1,HBO Family
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/259
+#EXTINF:-1,HBO Plus
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/260
+#EXTINF:-1,HBO2
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/261
+#EXTINF:-1,Headline News
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/262
+#EXTINF:-1,History Channel
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/263
+#EXTINF:-1,Hola!TV
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/264
+#EXTINF:-1,ID
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/265
+#EXTINF:-1,LAT*11 - Repretel
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/85
+#EXTINF:-1,LAT*13-Sinart
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/86
+#EXTINF:-1,LAT*29 - VM Latino
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/87
+#EXTINF:-1,LAT*42 - Extra TV 42
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/88
+#EXTINF:-1,LAT*6 - Repretel
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/89
+#EXTINF:-1,LAT*7-Teletica
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/90
+#EXTINF:-1,LAT*A&E HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/30
+#EXTINF:-1,LAT*AMC HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/31
+#EXTINF:-1,LAT*Animal Planet HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/34
+#EXTINF:-1,LAT*Antena 7- RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/91
+#EXTINF:-1,LAT*AXN HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/32
+#EXTINF:-1,LAT*AZ click HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/33
+#EXTINF:-1,LAT*Canal  21 - ESA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/96
+#EXTINF:-1,LAT*Canal 10 - NIC
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/97
+#EXTINF:-1,LAT*Canal 11 - GUA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/98
+#EXTINF:-1,LAT*Canal 12 - ESA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/99
+#EXTINF:-1,LAT*Canal 12 - NI
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/100
+#EXTINF:-1,LAT*CANAL 13 - NI
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/35
+#EXTINF:-1,LAT*Canal 13 - PAN
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/101
+#EXTINF:-1,LAT*Canal 13-GUA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/102
+#EXTINF:-1,LAT*Canal 14 - NIC
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/103
+#EXTINF:-1,LAT*Canal 19  ESA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/104
+#EXTINF:-1,LAT*Canal 2 - ESA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/105
+#EXTINF:-1,LAT*Canal 2 - NIC
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/106
+#EXTINF:-1,LAT*Canal 2 - PAN
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/107
+#EXTINF:-1,LAT*Canal 3 - GUA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/108
+#EXTINF:-1,LAT*Canal 4 - ESA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/109
+#EXTINF:-1,LAT*Canal 4 - NIC
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/110
+#EXTINF:-1,LAT*Canal 4 - PAN
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/111
+#EXTINF:-1,LAT*Canal 6 - ESA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/112
+#EXTINF:-1,LAT*Canal 6 - NI
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/113
+#EXTINF:-1,LAT*Canal 7 - GUA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/114
+#EXTINF:-1,LAT*Canal 8 - NIC
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/115
+#EXTINF:-1,LAT*Canal Antigua - GUA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/116
+#EXTINF:-1,LAT*Canal Azteca - GUA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/117
+#EXTINF:-1,LAT*Canal Claro HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/38
+#EXTINF:-1,LAT*CARTOON NT HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/36
+#EXTINF:-1,LAT*CCN
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/92
+#EXTINF:-1,LAT*CDN2- RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/93
+#EXTINF:-1,LAT*CDN37 - RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/94
+#EXTINF:-1,LAT*CERTV
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/95
+#EXTINF:-1,LAT*CINECANAL HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/37
+#EXTINF:-1,LAT*Claro Sports HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/39
+#EXTINF:-1,LAT*CNN Internacional
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/132
+#EXTINF:-1,LAT*CNNE
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/133
+#EXTINF:-1,LAT*Color Vision 9 - RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/40
+#EXTINF:-1,LAT*Comedy Central HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/41
+#EXTINF:-1,LAT*DHE
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/42
+#EXTINF:-1,LAT*DHE HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/43
+#EXTINF:-1,LAT*Digital 15 - RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/118
+#EXTINF:-1,LAT*DISCOVERY THEATHER HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/44
+#EXTINF:-1,LAT*E! Entertairment HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/45
+#EXTINF:-1,LAT*Europa HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/46
+#EXTINF:-1,LAT*Film & arts HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/54
+#EXTINF:-1,LAT*FOX Action HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/47
+#EXTINF:-1,LAT*FOX Family HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/48
+#EXTINF:-1,LAT*FOX HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/49
+#EXTINF:-1,LAT*FOX Movies HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/50
+#EXTINF:-1,LAT*FOX Series HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/51
+#EXTINF:-1,LAT*France24
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/55
+#EXTINF:-1,LAT*FX HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/52
+#EXTINF:-1,LAT*FX Movies HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/53
+#EXTINF:-1,LAT*Golf Channel HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/56
+#EXTINF:-1,LAT*Guatevision - GUA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/57
+#EXTINF:-1,LAT*HBO Family HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/58
+#EXTINF:-1,LAT*HBO HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/59
+#EXTINF:-1,LAT*HBO Plus HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/60
+#EXTINF:-1,LAT*HBO2 HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/61
+#EXTINF:-1,LAT*History HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/63
+#EXTINF:-1,LAT*HOLA! TV HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/62
+#EXTINF:-1,LAT*Home & Health HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/64
+#EXTINF:-1,LAT*La voz de Maria
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/65
+#EXTINF:-1,LAT*MASTV - PAN
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/66
+#EXTINF:-1,LAT*Max Prime HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/69
+#EXTINF:-1,LAT*MTV HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/67
+#EXTINF:-1,LAT*MTV SIM HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/68
+#EXTINF:-1,LAT*NEXT - PAN
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/119
+#EXTINF:-1,LAT*Nick 2 HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/70
+#EXTINF:-1,LAT*Nick SIM HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/71
+#EXTINF:-1,LAT*Playboy
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/72
+#EXTINF:-1,LAT*RCN - GUA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/73
+#EXTINF:-1,LAT*Sembrador
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/76
+#EXTINF:-1,LAT*SONY HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/74
+#EXTINF:-1,LAT*SPACE HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/75
+#EXTINF:-1,LAT*Studio Universal HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/77
+#EXTINF:-1,LAT*SyFy HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/78
+#EXTINF:-1,LAT*TBN Enlace
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/79
+#EXTINF:-1,LAT*Tele Antillas - RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/124
+#EXTINF:-1,LAT*Telecentro - RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/126
+#EXTINF:-1,LAT*TeleMicro - RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/125
+#EXTINF:-1,LAT*Telemundo HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/81
+#EXTINF:-1,LAT*Telesistema RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/127
+#EXTINF:-1,LAT*Teleunion - RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/128
+#EXTINF:-1,LAT*Teleuniverso - RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/129
+#EXTINF:-1,LAT*Televida RD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/130
+#EXTINF:-1,LAT*TNT HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/80
+#EXTINF:-1,LAT*TV  Max - PAN
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/120
+#EXTINF:-1,LAT*TVChile
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/121
+#EXTINF:-1,LAT*TVE
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/122
+#EXTINF:-1,LAT*TVM25 -  ESA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/123
+#EXTINF:-1,LAT*VENUS
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/82
+#EXTINF:-1,LAT*VH1 HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/83
+#EXTINF:-1,LAT*VTV Canal 35 ESA
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/131
+#EXTINF:-1,LAT*WARNER HD
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/84
+#EXTINF:-1,LATINA X2
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/18
+#EXTINF:-1,LIFE TIME
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/266
+#EXTINF:-1,Mas Chic
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/269
+#EXTINF:-1,Max Prime (Oeste)
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/270
+#EXTINF:-1,MEXICO: ADN 40
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/1
+#EXTINF:-1,MTV
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/267
+#EXTINF:-1,MTV Hits
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/268
+#EXTINF:-1,Multicinema
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/271
+#EXTINF:-1,Multimedios
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/272
+#EXTINF:-1,Multipremier
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/273
+#EXTINF:-1,Nat Geo Kids
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/275
+#EXTINF:-1,Nat Geo Wild
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/276
+#EXTINF:-1,National Geographic
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/277
+#EXTINF:-1,Nick Jr
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/278
+#EXTINF:-1,Nickelodeon
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/279
+#EXTINF:-1,NU MUSIC
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/274
+#EXTINF:-1,Paramount
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/281
+#EXTINF:-1,PXTV
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/280
+#EXTINF:-1,SONY
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/282
+#EXTINF:-1,SPACE
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/283
+#EXTINF:-1,Studio Universal
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/284
+#EXTINF:-1,Sun Channel
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/285
+#EXTINF:-1,SyFy
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/286
+#EXTINF:-1,TBS
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/287
+#EXTINF:-1,TCM
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/288
+#EXTINF:-1,Telemundo
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/292
+#EXTINF:-1,TLC
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/289
+#EXTINF:-1,TNT
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/290
+#EXTINF:-1,TNT Series
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/291
+#EXTINF:-1,Universal
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/293
+#EXTINF:-1,VH1
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/294
+#EXTINF:-1,VH1 Classic
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/295
+#EXTINF:-1,Warner
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/296
+#EXTINF:-1,ZooMoo
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/297
+#EXTINF:-1,FOX Sports 2 (CLARO TV)
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/699
+#EXTINF:-1,Fox Sport 3 (CLARO TV)
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/700
+#EXTINF:-1,DEPORTES: FOX SPORTS 1 SD*
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/701
+#EXTINF:-1,DEPORTES: FOX SPORTS 2 HD*
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/704
+#EXTINF:-1,ESPN (CLARO TV)
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/705
+#EXTINF:-1,ESPN  + (CLARO TV)
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/706
+#EXTINF:-1,ESPN 3 (CLARO TV)
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/707
+#EXTINF:-1,ESPN2 (CLARO TV)
+http://zufreelist.net:8880/Codigozaltvperr/codezaltv/708
