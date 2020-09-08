@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="J. BALVIN - REGGAETON" tvg-logo="" group-title="REGGAETON",REGGAETON  Caillou
-https://proxy-045.dc3.dailymotion.com/sec(LBJP6M936EOr43Frn-Nvyv_QzNgq_H7zaDrC9dFzGOGqeBuRA1bfC8bzymT1zBcpCKI8pkxb44yIAfWHx4S1uK3iXEuyvfdDQfAVQ5fhvnw)/video/864/555/236555468_mp4_h264_aac_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="J. BALVIN - REGGAETON" tvg-logo="" group-title="REGGAETON",J. BALVIN - REGGAETON
+https://vod-progressive.akamaized.net/exp=1599610780~acl=%2A%2F1028308663.mp4%2A~hmac=7846018015155b5acf294499c12f29f7321f904e58c0d0664c0ee7cd114f847c/vimeo-prod-skyfire-std-us/01/100/11/275503747/1028308663.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Elton John - Your Song" tvg-logo="" group-title="CLASICOS",CLASICOS  Caillou
-https://www.youtube.com/watch?v=BTDR64tIxzw
+#EXTINF:-1 tvg-id="" tvg-name="DADDY YANKEE - ROMPE" tvg-logo="" group-title="REGGAETON",DADDY YANKEE - ROMPE
+https://proxy-014.ix7.dailymotion.com/sec(MUrjIUhahIVoOWxx8o9LZtVmbXvPwJfUMC791a--mlB6VWeoCI81IA2U8oWHXjVNdCe8L2NVjQXoJp22U237RlOaK1MpN9KBGItGm2KuSGI)/video/032/890/477098230_mp4_h264_aac_fhd.m3u8
