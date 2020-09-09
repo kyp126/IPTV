@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BATALLA DE LOS DJ 35" group-title="DJ KAIRUZ",BATALLA DE LOS DJ 35
-https://video.flpb1-2.fna.fbcdn.net/v/t39.24130-2/10000000_2559164217726997_4534567695717337675_n.mp4?_nc_cat=103&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=rQkRdbiFMcMAX9B4Bvj&_nc_ht=video.flpb1-2.fna&oh=9a03270ad6126a1f9c8eab9ced8fd70f&oe=5F7C56BA
 
-#EXTINF:-1 tvg-id="" tvg-name="TRIBUTO A LA CUMBIA NACIONAL" group-title="EDWIN CASTRO DJ TORERO",TRIBUTO A LA CUMBIA NACIONAL
-https://scontent-scl2-1.xx.fbcdn.net/v/t66.36240-6/10000000_307656827151368_8336316468857347408_n.mp4?_nc_cat=107&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=sYBhq3UTTLwAX-lAdmD&_nc_ht=scontent-scl2-1.xx&oh=9e665ae954f6bd3f1b29d56b07b1583c&oe=5F7CD230
-
-#EXTINF:-1 tvg-id="" tvg-name="90 EUROS - EDWIN CASTRO" group-title="EDWIN CASTRO DJ TORERO",90 EUROS - EDWIN CASTRO
-https://vd216.mycdn.me/expires/1599747309955/srcIp/200.87.92.218/srcAg/CHROME_ANDROID/ms/45.136.22.24/type/3/sig/8nzzCk8qOrY/ct/8/urls/45.136.21.51/clientType/1/id/762433571520/video/
-
-#EXTINF:-1 tvg-id="" tvg-name="MADONA LA ISLA BONITA" group-title="EDWIN CASTRO DJ TORERO",MADONA LA ISLA BONITA
-https://acache.veoh.com/file/f/h142054197.mp4?e=1599676002&rs=200&h=eb4dff0d8a970a1b60b293ed3194bfd4
-
-#EXTINF:-1 tvg-id="" tvg-name="PASADITOS CUMBIA" group-title="EDWIN CASTRO DJ TORERO",PASADITOS CUMBIA
-https://vd212.mycdn.me/expires/1599761669734/srcIp/200.87.92.218/srcAg/CHROME_ANDROID/ms/45.136.22.20/type/2/sig/mX7VcQNFmJ8/ct/8/urls/45.136.21.45/clientType/1/id/794799246016/video/
+#EXTINF:-1 tvg-id="" tvg-name="JOSE LUIS PERALES - ME LLAMAS" group-title="EDWIN CASTRO DJ TORERO",JOSE LUIS PERALES - ME LLAMAS
+https://bittube.video/static/webseed/8a3ef114-87e7-4b87-949b-afad4cb434a4-720.mp4
