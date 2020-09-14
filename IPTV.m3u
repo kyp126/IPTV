@@ -1,392 +1,392 @@
 #EXTM3U
-#EXTINF:-1,CINE TV: Zee Mundo Bollywood en Español
+#EXTINF:-1,group-title="CINE TV",Zee Mundo Bollywood en Español
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/25
 
-#EXTINF:-1,CINE TV: Panico HD
+#EXTINF:-1,group-title="CINE TV",Panico HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/26
 
-#EXTINF:-1,CINE TV: A&E CO
+#EXTINF:-1,group-title="CINE TV",A&E (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/27
 
-#EXTINF:-1,CINE TV: A&E MX
+#EXTINF:-1,group-title="CINE TV",A&E (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/30
 
-#EXTINF:-1,CINE TV: AMC CO
+#EXTINF:-1,group-title="CINE TV",AMC (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/33
 
-#EXTINF:-1,CINE TV: AXN CO
+#EXTINF:-1,group-title="CINE TV",AXN (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/39
 
-#EXTINF:-1,CINE TV: AXN HD CO
+#EXTINF:-1,group-title="CINE TV",AXN HD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/40
 
-#EXTINF:-1,CINE TV: AXN MX
+#EXTINF:-1,group-title="CINE TV",AXN (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/42
 
-#EXTINF:-1,CINE TV: AXN Full HD MX
+#EXTINF:-1,group-title="CINE TV",AXN Full HD (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/43
 
-#EXTINF:-1,CINE TV: AXN Full HD ARGDual Audio
+#EXTINF:-1,group-title="CINE TV",AXN Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/44
 
-#EXTINF:-1,CINE TV: Cinecanal CO
+#EXTINF:-1,group-title="CINE TV",Cinecanal (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/45
 
-#EXTINF:-1,CINE TV: Cinecanal HD CO
+#EXTINF:-1,group-title="CINE TV",Cinecanal HD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/46
 
-#EXTINF:-1,CINE TV: Cinecanal MX
+#EXTINF:-1,group-title="CINE TV",Cinecanal (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/48
 
-#EXTINF:-1,CINE TV: Cine Latino
+#EXTINF:-1,group-title="CINE TV",Cine Latino
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/53
 
-#EXTINF:-1,CINE TV: Claro Cinema
+#EXTINF:-1,group-title="CINE TV",Claro Cinema
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/55
 
-#EXTINF:-1,CINE TV: DHE Full HD
+#EXTINF:-1,group-title="CINE TV",DHE Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/57
 
-#EXTINF:-1,CINE TV: Fox Channel MX
+#EXTINF:-1,group-title="CINE TV",Fox Channel (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/62
 
-#EXTINF:-1,CINE TV: Fox Life CO
+#EXTINF:-1,group-title="CINE TV",Fox Life (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/65
 
-#EXTINF:-1,CINE TV: Fox Life HD CO
+#EXTINF:-1,group-title="CINE TV",Fox Life HD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/66
 
-#EXTINF:-1,CINE TV: Fox Life MX
+#EXTINF:-1,group-title="CINE TV",Fox Life (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/68
 
-#EXTINF:-1,CINE TV: Fox Life Full HD MX
+#EXTINF:-1,group-title="CINE TV",Fox Life Full HD (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/69
 
-#EXTINF:-1,CINE TV: Fox Cinema Subtitulado
+#EXTINF:-1,group-title="CINE TV",Fox Cinema Subtitulado
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/70
 
-#EXTINF:-1,CINE TV: Fox Premium Cinema
+#EXTINF:-1,group-title="CINE TV",Fox Premium Cinema
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/78
 
-#EXTINF:-1,CINE TV: Fox Premium Classics
+#EXTINF:-1,group-title="CINE TV",Fox Premium Classics
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/80
 
-#EXTINF:-1,CINE TV: Fox Premium Comedy
+#EXTINF:-1,group-title="CINE TV",Fox Premium Comedy
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/82
 
-#EXTINF:-1,CINE TV: Fox Premium Comedy Full HD ARGDual Audio
+#EXTINF:-1,group-title="CINE TV",Fox Premium Comedy Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/85
 
-#EXTINF:-1,CINE TV: Fox Premium Family
+#EXTINF:-1,group-title="CINE TV",Fox Premium Family
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/86
 
-#EXTINF:-1,CINE TV: Fox Premium Movies HD
+#EXTINF:-1,group-title="CINE TV",Fox Premium Movies HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/91
 
-#EXTINF:-1,CINE TV: Fox Premium Series
+#EXTINF:-1,group-title="CINE TV",Fox Premium Series
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/94
 
-#EXTINF:-1,CINE TV: Fox Premium Series Subtitulado
+#EXTINF:-1,group-title="CINE TV",Fox Premium Series Subtitulado
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/97
 
-#EXTINF:-1,CINE TV: FX Full HD ARGDual Audio
+#EXTINF:-1,group-title="CINE TV",FX Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/99
 
-#EXTINF:-1,CINE TV: FXM MX
+#EXTINF:-1,group-title="CINE TV",FXM (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/100
 
-#EXTINF:-1,CINE TV: FXM Full HD ARGDual Audio
+#EXTINF:-1,group-title="CINE TV",FXM Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/102
 
-#EXTINF:-1,CINE TV: Golden
+#EXTINF:-1,group-title="CINE TV",Golden
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/103
 
-#EXTINF:-1,CINE TV: Multicinema
+#EXTINF:-1,group-title="CINE TV",Multicinema
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/110
 
-#EXTINF:-1,CINE TV: Cinemax CO
+#EXTINF:-1,group-title="CINE TV",Cinemax (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/111
 
-#EXTINF:-1,CINE TV: Cinemax MX
+#EXTINF:-1,group-title="CINE TV",Cinemax (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/112
 
-#EXTINF:-1,CINE TV: Cinemax Full HD MX
+#EXTINF:-1,group-title="CINE TV",Cinemax Full HD (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/113
 
-#EXTINF:-1,CINE TV: Paramount Channel CO
+#EXTINF:-1,group-title="CINE TV",Paramount Channel (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/114
 
-#EXTINF:-1,CINE TV: Paramount Channel MX
+#EXTINF:-1,group-title="CINE TV",Paramount Channel (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/116
 
-#EXTINF:-1,CINE TV: Paramount Channel Full HD ARGDual Audio
+#EXTINF:-1,group-title="CINE TV",Paramount Channel Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/118
 
-#EXTINF:-1,CINE TV: Sony CO
+#EXTINF:-1,group-title="CINE TV",Sony (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/119
 
-#EXTINF:-1,CINE TV: Sony MX
+#EXTINF:-1,group-title="CINE TV",Sony (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/121
 
-#EXTINF:-1,CINE TV: Space Full HD ARGDual Audio
+#EXTINF:-1,group-title="CINE TV",Space Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/128
 
-#EXTINF:-1,CINE TV: TCM
+#EXTINF:-1,group-title="CINE TV",TCM
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/129
 
-#EXTINF:-1,CINE TV: TNT CO
+#EXTINF:-1,group-title="CINE TV",TNT (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/130
 
-#EXTINF:-1,CINE TV: TNT HD CO
+#EXTINF:-1,group-title="CINE TV",TNT HD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/131
 
-#EXTINF:-1,CINE TV: TNT MX
+#EXTINF:-1,group-title="CINE TV",TNT (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/133
 
-#EXTINF:-1,CINE TV: TNT Full HD MX
+#EXTINF:-1,group-title="CINE TV",TNT Full HD (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/134
 
-#EXTINF:-1,CINE TV: TNT Full HD ARGDual Audio
+#EXTINF:-1,group-title="CINE TV",TNT Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/135
 
-#EXTINF:-1,CINE TV: TNT Series CO
+#EXTINF:-1,group-title="CINE TV",TNT Series (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/136
 
-#EXTINF:-1,CINE TV: TNT Series Full HD CO
+#EXTINF:-1,group-title="CINE TV",TNT Series Full HD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/138
 
-#EXTINF:-1,CINE TV: TNT Series MX
+#EXTINF:-1,group-title="CINE TV",TNT Series (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/139
 
-#EXTINF:-1,CINE TV: De Pelicula
+#EXTINF:-1,group-title="CINE TV",De Pelicula
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/150
 
-#EXTINF:-1,CINE TV: I.Sat
+#EXTINF:-1,group-title="CINE TV",I.Sat
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/151
 
-#EXTINF:-1,CINE TV: Film And Arts
+#EXTINF:-1,group-title="CINE TV",Film And Arts
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/152
 
-#EXTINF:-1,CINE TV: Film & Arts HD
+#EXTINF:-1,group-title="CINE TV",Film & Arts HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/153
 
-#EXTINF:-1,CINE TV: Film And Arts Full HD ARGDual Audio
+#EXTINF:-1,group-title="CINE TV",Film And Arts Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/154
 
-#EXTINF:-1,CINE TV: Warner Channel MX
+#EXTINF:-1,group-title="CINE TV",Warner Channel (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/155
 
-#EXTINF:-1,CINE TV: Outermax Full HD
+#EXTINF:-1,group-title="CINE TV",Outermax Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/161
 
-#EXTINF:-1,CINE TV: Showtime Full HD
+#EXTINF:-1,group-title="CINE TV",Showtime Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/164
 
-#EXTINF:-1,CINE TV: Showtime 2 HD
+#EXTINF:-1,group-title="CINE TV",Showtime 2 HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/165
 
-#EXTINF:-1,CINE TV: Showtime Extreme HD
+#EXTINF:-1,group-title="CINE TV",Showtime Extreme HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/166
 
-#EXTINF:-1,CINE TV: Starz Black Full HD
+#EXTINF:-1,group-title="CINE TV",Starz Black Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/167
 
-#EXTINF:-1,CINE TV: Starz Cinema Full HD
+#EXTINF:-1,group-title="CINE TV",Starz Cinema Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/168
 
-#EXTINF:-1,CINE TV: Starz East Full HD
+#EXTINF:-1,group-title="CINE TV",Starz East Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/169
 
-#EXTINF:-1,CINE TV: Starz Encore Classic Full HD
+#EXTINF:-1,group-title="CINE TV",Starz Encore Classic Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/171
 
-#EXTINF:-1,CINE TV: Starz Encore Suspense Full HD
+#EXTINF:-1,group-title="CINE TV",Starz Encore Suspense Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/173
 
-#EXTINF:-1,CINE TV: HBO
+#EXTINF:-1,group-title="CINE TV",HBO
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/391
 
-#EXTINF:-1,CINE TV: HBO Family
+#EXTINF:-1,group-title="CINE TV",HBO Family
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/399
 
-#EXTINF:-1,CINE TV: HBO Plus HD
+#EXTINF:-1,group-title="CINE TV",HBO Plus HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/404
 
-#EXTINF:-1,CINE TV: HBO Signature
+#EXTINF:-1,group-title="CINE TV",HBO Signature
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/407
 
-#EXTINF:-1,CINE TV: HBO Subtitulado
+#EXTINF:-1,group-title="CINE TV",HBO Subtitulado
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/410
 
-#EXTINF:-1,CINE TV: HBO Mundi
+#EXTINF:-1,group-title="CINE TV",HBO Mundi
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/412
 
-#EXTINF:-1,CINE TV: HBO Xtreme Full HD
+#EXTINF:-1,group-title="CINE TV",HBO Xtreme Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/417
 
-#EXTINF:-1,CINE TV: Cinema 01
+#EXTINF:-1,group-title="CINE TV",Cinema 01
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/418
 
-#EXTINF:-1,CINE TV: Cinema 02
+#EXTINF:-1,group-title="CINE TV",Cinema 02
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/419
 
-#EXTINF:-1,CINE TV: Cinema 04
+#EXTINF:-1,group-title="CINE TV",Cinema 04
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/421
 
-#EXTINF:-1,CINE TV: Cinema 05
+#EXTINF:-1,group-title="CINE TV",Cinema 05
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/422
 
-#EXTINF:-1,CINE TV: Cinema 06
+#EXTINF:-1,group-title="CINE TV",Cinema 06
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/423
 
-#EXTINF:-1,CINE TV: Cinema 07
+#EXTINF:-1,group-title="CINE TV",Cinema 07
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/424
 
-#EXTINF:-1,CINE TV: Cinema 16
+#EXTINF:-1,group-title="CINE TV",Cinema 16
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/433
 
-#EXTINF:-1,CINE TV: Cinema 17
+#EXTINF:-1,group-title="CINE TV",Cinema 17
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/434
 
-#EXTINF:-1,CINE TV: Cinema 18
+#EXTINF:-1,group-title="CINE TV",Cinema 18
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/435
 
-#EXTINF:-1,CINE TV: Cinema 19
+#EXTINF:-1,group-title="CINE TV",Cinema 19
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/436
 
-#EXTINF:-1,CINE TV: Cinema 20
+#EXTINF:-1,group-title="CINE TV",Cinema 20
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/437
 
-#EXTINF:-1,CINE TV: Cinema 21
+#EXTINF:-1,group-title="CINE TV",Cinema 21
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/438
 
-#EXTINF:-1,CINE TV: Cinema 22
+#EXTINF:-1,group-title="CINE TV",Cinema 22
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/439
 
-#EXTINF:-1,CINE TV: Cinema 24
+#EXTINF:-1,group-title="CINE TV",Cinema 24
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/441
 
-#EXTINF:-1,CINE TV: Cinema 25
+#EXTINF:-1,group-title="CINE TV",Cinema 25
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/442
 
-#EXTINF:-1,CINE TV: Cinema 26
+#EXTINF:-1,group-title="CINE TV",Cinema 26
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/443
 
-#EXTINF:-1,CINE TV: Cinema 27
+#EXTINF:-1,group-title="CINE TV",Cinema 27
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/444
 
-#EXTINF:-1,CINE TV: Cinema 31
+#EXTINF:-1,group-title="CINE TV",Cinema 31
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/448
 
-#EXTINF:-1,CINE TV: Cinema 32
+#EXTINF:-1,group-title="CINE TV",Cinema 32
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/449
 
-#EXTINF:-1,CINE TV: Cinema 34
+#EXTINF:-1,group-title="CINE TV",Cinema 34
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/451
 
-#EXTINF:-1,CINE TV: Cinema 35
+#EXTINF:-1,group-title="CINE TV",Cinema 35
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/452
 
-#EXTINF:-1,CINE TV: Cinema 36
+#EXTINF:-1,group-title="CINE TV",Cinema 36
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/453
 
-#EXTINF:-1,CINE TV: Cinema 37
+#EXTINF:-1,group-title="CINE TV",Cinema 37
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/454
 
-#EXTINF:-1,Infantil: Cartoon Network CO
+#EXTINF:-1,Infantil: Cartoon Network (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/189
 
-#EXTINF:-1,Infantil: Cartoon Network Full HD CO
+#EXTINF:-1,Infantil: Cartoon Network Full HD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/190
 
-#EXTINF:-1,Infantil: Cartoon Network MX
+#EXTINF:-1,Infantil: Cartoon Network (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/191
 
-#EXTINF:-1,Infantil: Cartoon Network Full HD ARGDual Audio
+#EXTINF:-1,Infantil: Cartoon Network Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/193
 
-#EXTINF:-1,Infantil: Discovery Kids CO
+#EXTINF:-1,Infantil: Discovery Kids (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/194
 
-#EXTINF:-1,Infantil: Disney XD CO
+#EXTINF:-1,Infantil: Disney XD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/197
 
-#EXTINF:-1,Infantil: Disney XD MX
+#EXTINF:-1,Infantil: Disney XD (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/198
 
-#EXTINF:-1,Infantil: Disney Channel Full HD ARGDual Audio
+#EXTINF:-1,Infantil: Disney Channel Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/204
 
-#EXTINF:-1,Infantil: Nat Geo Kids CO
+#EXTINF:-1,Infantil: Nat Geo Kids (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/205
 
-#EXTINF:-1,Infantil: Nat Geo Kids MX
+#EXTINF:-1,Infantil: Nat Geo Kids (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/207
 
-#EXTINF:-1,Infantil: Nickelodeon CO
+#EXTINF:-1,Infantil: Nickelodeon (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/209
 
-#EXTINF:-1,Infantil: Nickelodeon MX
+#EXTINF:-1,Infantil: Nickelodeon (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/211
 
-#EXTINF:-1,Infantil: Nickelodeon Full HD ARGDual Audio
+#EXTINF:-1,Infantil: Nickelodeon Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/213
 
-#EXTINF:-1,Infantil: Nick 2 Full HD ARGDual Audio
+#EXTINF:-1,Infantil: Nick 2 Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/216
 
-#EXTINF:-1,Infantil: Tooncast CO
+#EXTINF:-1,Infantil: Tooncast (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/222
 
-#EXTINF:-1,Infantil: Tooncast MX
+#EXTINF:-1,Infantil: Tooncast (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/223
 
 #EXTINF:-1,Infantil: Baby TV
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/224
 
-#EXTINF:-1,Infantil: Boomerang MX
+#EXTINF:-1,Infantil: Boomerang (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/226
 
-#EXTINF:-1,Infantil: Boomerang Full HD MX
+#EXTINF:-1,Infantil: Boomerang Full HD (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/227
 
 #EXTINF:-1,Infantil: Baby First
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/228
 
-#EXTINF:-1,LAT: Investigation Discovery CO
+#EXTINF:-1,LAT: Investigation Discovery (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/229
 
-#EXTINF:-1,LAT: Investigation Discovery HD CO
+#EXTINF:-1,LAT: Investigation Discovery HD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/230
 
-#EXTINF:-1,LAT: Investigation Discovery Full HD CO
+#EXTINF:-1,LAT: Investigation Discovery Full HD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/231
 
-#EXTINF:-1,LAT: Discovery Channel CO
+#EXTINF:-1,LAT: Discovery Channel (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/239
 
-#EXTINF:-1,LAT: Discovery Channel MX
+#EXTINF:-1,LAT: Discovery Channel (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/242
 
-#EXTINF:-1,LAT: Discovery Channel Full HD ARGDual Audio
+#EXTINF:-1,LAT: Discovery Channel Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/244
 
-#EXTINF:-1,LAT: Discovery Channel PY
+#EXTINF:-1,LAT: Discovery Channel (PY)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/245
 
-#EXTINF:-1,LAT: Discovery Channel HD PY h265
+#EXTINF:-1,LAT: Discovery Channel HD (PY) (h265)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/246
 
-#EXTINF:-1,LAT: Discovery H&H CO
+#EXTINF:-1,LAT: Discovery H&H (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/247
 
-#EXTINF:-1,LAT: Discovery H&H HD CO
+#EXTINF:-1,LAT: Discovery H&H HD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/248
 
-#EXTINF:-1,LAT: Discovery H&H MX
+#EXTINF:-1,LAT: Discovery H&H (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/250
 
-#EXTINF:-1,LAT: History HD PY h265
+#EXTINF:-1,LAT: History HD (PY) (h265)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/260
 
 #EXTINF:-1,LAT: History 2
@@ -395,61 +395,61 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/261
 #EXTINF:-1,LAT: History 2 Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/262
 
-#EXTINF:-1,LAT: NatGeo CO
+#EXTINF:-1,LAT: NatGeo (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/263
 
-#EXTINF:-1,LAT: NatGeo MX
+#EXTINF:-1,LAT: NatGeo (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/266
 
-#EXTINF:-1,LAT: NatGeo Wild Full HD ARGDual Audio
+#EXTINF:-1,LAT: NatGeo Wild Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/275
 
-#EXTINF:-1,LAT: Animal Planet MX
+#EXTINF:-1,LAT: Animal Planet (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/276
 
-#EXTINF:-1,LAT: Animal Planet PY
+#EXTINF:-1,LAT: Animal Planet (PY)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/278
 
-#EXTINF:-1,LAT: Tru TV MX
+#EXTINF:-1,LAT: Tru TV (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/280
 
-#EXTINF:-1,LAT: Tru TV Full HD ARGDual Audio
+#EXTINF:-1,LAT: Tru TV Full HD (ARG)(Dual Audio)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/282
 
 #EXTINF:-1,LAT: Discovery Science
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/283
 
-#EXTINF:-1,LAT: Discovery Theater CO
+#EXTINF:-1,LAT: Discovery Theater (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/284
 
-#EXTINF:-1,LAT: Discovery TLC Full HD CO
+#EXTINF:-1,LAT: Discovery TLC Full HD (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/291
 
-#EXTINF:-1,LAT: Discovery TLC MX
+#EXTINF:-1,LAT: Discovery TLC (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/292
 
 #EXTINF:-1,LAT: Discovery Turbo Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/294
 
-#EXTINF:-1,LAT: Discovery Turbo HD PY h265
+#EXTINF:-1,LAT: Discovery Turbo HD (PY) (h265)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/295
 
 #EXTINF:-1,LAT: Discovery World
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/296
 
-#EXTINF:-1,LAT: Discovery World HD PY h265
+#EXTINF:-1,LAT: Discovery World HD (PY) (h265)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/299
 
 #EXTINF:-1,LAT: E! Entertaiment Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/307
 
-#EXTINF:-1,LAT: El Gourmet CO
+#EXTINF:-1,LAT: El Gourmet (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/308
 
-#EXTINF:-1,LAT: Food Network MX
+#EXTINF:-1,LAT: Food Network (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/311
 
-#EXTINF:-1,LAT: Food Network MX Full HD
+#EXTINF:-1,LAT: Food Network (MX) Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/312
 
 #EXTINF:-1,LAT: Hola TV
@@ -464,13 +464,13 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/318
 #EXTINF:-1,LAT: Las Estrellas HD Sur
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/321
 
-#EXTINF:-1,LAT: Lifetime CO
+#EXTINF:-1,LAT: Lifetime (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/322
 
-#EXTINF:-1,LAT: TBS CO
+#EXTINF:-1,LAT: TBS (CO)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/327
 
-#EXTINF:-1,LAT: TBS HD MX
+#EXTINF:-1,LAT: TBS HD (MX)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/328
 
 #EXTINF:-1,LAT: Galavision Houston HD
@@ -563,13 +563,13 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/476
 #EXTINF:-1,24/7 El Auto Fantastico
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/477
 
-#EXTINF:-1,24/7 El Auto Fantastico 2008
+#EXTINF:-1,24/7 El Auto Fantastico (2008)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/478
 
-#EXTINF:-1,24/7 MacGiver 2016 Temp 1
+#EXTINF:-1,24/7 MacGiver (2016) Temp 1
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/479
 
-#EXTINF:-1,24/7 MacGiver 2016 Temp 2
+#EXTINF:-1,24/7 MacGiver (2016) Temp 2
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/480
 
 #EXTINF:-1,24/7 ER Sala de Urgencias
@@ -578,7 +578,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/481
 #EXTINF:-1,24/7 Baywatch
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/482
 
-#EXTINF:-1,24/7 El Zorro 1956
+#EXTINF:-1,24/7 El Zorro (1956)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/483
 
 #EXTINF:-1,24/7 Walker Texas Ranger
@@ -593,10 +593,10 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/487
 #EXTINF:-1,24/7 La India Maria
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/488
 
-#EXTINF:-1,24/7 Cantinflas Parte 1 18 Peliculas
+#EXTINF:-1,24/7 Cantinflas Parte 1 (18 Peliculas)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/489
 
-#EXTINF:-1,24/7 Cantinflas Parte 2 19 Peliculas
+#EXTINF:-1,24/7 Cantinflas Parte 2 (19 Peliculas)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/490
 
 #EXTINF:-1,24/7 Los 3 Chiflados
@@ -725,7 +725,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/551
 #EXTINF:-1,24/7 Laura Bozzo
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/552
 
-#EXTINF:-1,24/7 Miguelito Chile
+#EXTINF:-1,24/7 Miguelito (Chile)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/553
 
 #EXTINF:-1,24/7 Lo Que Callamos Las Mujeres
@@ -758,7 +758,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/563
 #EXTINF:-1,24/7 Gravity Falls
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/569
 
-#EXTINF:-1,24/7 Brickleberry +15
+#EXTINF:-1,24/7 Brickleberry (+15)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/570
 
 #EXTINF:-1,24/7 Mr Pickles
@@ -809,7 +809,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/592
 #EXTINF:-1,24/7 Los Picapiedras
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/593
 
-#EXTINF:-1,24/7 Los Picapiedras Pequeños
+#EXTINF:-1,24/7 Los Picapiedras (Pequeños)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/594
 
 #EXTINF:-1,24/7 Futurama HD
@@ -830,7 +830,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/606
 #EXTINF:-1,24/7 Paw Patroll
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/607
 
-#EXTINF:-1,24/7 Transformers Mastersforce 1988
+#EXTINF:-1,24/7 Transformers Mastersforce (1988)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/609
 
 #EXTINF:-1,24/7 Hey Arnold
@@ -842,7 +842,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/611
 #EXTINF:-1,24/7 Los Pitufos
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/612
 
-#EXTINF:-1,24/7 Dragon Ball Vers Extendida
+#EXTINF:-1,24/7 Dragon Ball (Vers Extendida)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/613
 
 #EXTINF:-1,24/7 Dragon Ball Z Freezer
@@ -878,7 +878,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/632
 #EXTINF:-1,24/7 Super Mario Bross 3
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/633
 
-#EXTINF:-1,24/7 Super Campeones Captain Tsubasa
+#EXTINF:-1,24/7 Super Campeones (Captain Tsubasa)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/634
 
 #EXTINF:-1,24/7 Los Castores Cascarrabias
@@ -977,7 +977,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/690
 #EXTINF:-1,24/7 Robotech
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/694
 
-#EXTINF:-1,24/7 Clasicos de Disney Latino
+#EXTINF:-1,24/7 Clasicos de Disney (Latino)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/696
 
 #EXTINF:-1,24/7 El Narrador de Cuentos
@@ -998,43 +998,43 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/702
 #EXTINF:-1,24/7 Cuentos de la Cripta Animada
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/703
 
-#EXTINF:-1,Ultra CineL
+#EXTINF:-1,Ultra Cine(L)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/713
 
-#EXTINF:-1,MX:  Nu9ve SD T
+#EXTINF:-1,MX:  Nu9ve SD (T)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/716
 
-#EXTINF:-1,MX:  Once SD H
+#EXTINF:-1,MX:  Once SD (H)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/718
 
-#EXTINF:-1,MX:  Imagen TV SD T
+#EXTINF:-1,MX:  Imagen TV SD (T)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/719
 
-#EXTINF:-1,MX:  Ingenio TV SDB
+#EXTINF:-1,MX:  Ingenio TV SD(B)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/723
 
-#EXTINF:-1,MX:  Canal 10 CancunQ
+#EXTINF:-1,MX:  Canal 10 Cancun(Q)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/729
 
-#EXTINF:-1,Azteca uno SD H
+#EXTINF:-1,Azteca uno SD (H)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/733
 
-#EXTINF:-1,adn40 SD T
+#EXTINF:-1,adn40 SD (T)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/734
 
-#EXTINF:-1,Multimedios SD T
+#EXTINF:-1,Multimedios SD (T)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/735
 
-#EXTINF:-1,MX:  Fórmula SDL
+#EXTINF:-1,MX:  Fórmula SD(L)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/738
 
-#EXTINF:-1,MX:  Multimedios HDT
+#EXTINF:-1,MX:  Multimedios HD(T)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/747
 
-#EXTINF:-1,Canal 5 HD T
+#EXTINF:-1,Canal 5 HD (T)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/752
 
-#EXTINF:-1,MX:  TELEFORMULA HDT
+#EXTINF:-1,MX:  TELEFORMULA HD(T)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/756
 
 #EXTINF:-1,MX: 52
@@ -1055,7 +1055,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/766
 #EXTINF:-1,MX: Az Corazon
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/768
 
-#EXTINF:-1,MX: Az Mundo MOVIL
+#EXTINF:-1,MX: Az Mundo (MOVIL)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/770
 
 #EXTINF:-1,MX: Az Mundo
@@ -1064,10 +1064,10 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/771
 #EXTINF:-1,MX: Az Mundo Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/772
 
-#EXTINF:-1,MX: Azteca 7 MOVIL
+#EXTINF:-1,MX: Azteca 7 (MOVIL)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/773
 
-#EXTINF:-1,MX: Azteca Uno MOVIL
+#EXTINF:-1,MX: Azteca Uno (MOVIL)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/776
 
 #EXTINF:-1,MX: Azteca Uno
@@ -1079,13 +1079,13 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/778
 #EXTINF:-1,MX: Canal 2 Full HD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/779
 
-#EXTINF:-1,MX: Canal 5 MOVIL
+#EXTINF:-1,MX: Canal 5 (MOVIL)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/781
 
 #EXTINF:-1,MX: Canal 5
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/782
 
-#EXTINF:-1,MX: Canal 8 MOVIL
+#EXTINF:-1,MX: Canal 8 (MOVIL)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/784
 
 #EXTINF:-1,MX: Canal 8 Full HD
@@ -1100,7 +1100,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/788
 #EXTINF:-1,MX: Distrito Comedia
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/789
 
-#EXTINF:-1,MX: Glitz MOVIL
+#EXTINF:-1,MX: Glitz (MOVIL)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/795
 
 #EXTINF:-1,MX: Glitz
@@ -1133,7 +1133,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/808
 #EXTINF:-1,MX: Televisa MTY
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/810
 
-#EXTINF:-1,MX: Televisa Puebla MOVIL
+#EXTINF:-1,MX: Televisa Puebla (MOVIL)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/811
 
 #EXTINF:-1,MX: Televisa Puebla
@@ -1145,7 +1145,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/817
 #EXTINF:-1,MX: TL Novelas
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/819
 
-#EXTINF:-1,MX: Wobi TV MOVIL
+#EXTINF:-1,MX: Wobi TV (MOVIL)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/822
 
 #EXTINF:-1,MX: Wobi TV Full HD
@@ -1157,7 +1157,7 @@ http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/824
 #EXTINF:-1,MX: Bit Me FHD
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/825
 
-#EXTINF:-1,MX: Nueve MOVIL
+#EXTINF:-1,MX: Nueve (MOVIL)
 http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/826
 
 #EXTINF:-1,CO: Canal 1 SD
