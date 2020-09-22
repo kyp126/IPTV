@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1,FHD BOLIVAR Vs PALMEIRAS
-http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/2888
-#EXTINF:-1,HD BOLIVAR Vs PALMEIRAS
-http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/2887
-#EXTINF:-1,SD BOLIVAR Vs PALMEIRAS
-http://emiraytv.ddns.net:25461/hemosVuelto/EmirayTV/2886
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 1 Sur" tvg-logo="" group-title="DEPORTES PREMIUM",SP: Fox Sports 1 Sur
+http://emiraytv.ddns.net:25461/uwTB1LVSHH/oJ63HMRm80/2883
