@@ -1,423 +1,315 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="LIVE TV " MEXICO "",Estrellas
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/1
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="LIVE TV " MEXICO "",Canal 5
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/2
-#EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="LIVE TV " MEXICO "",Foro TV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/3
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/968px-Logo_Azteca_7_2011.svg.png" group-title="LIVE TV " MEXICO "",Azteca 7
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/4
-#EXTINF:-1 tvg-id="" tvg-name="Gala tv" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Gala-TV-Edo.-De-m%C3%A9xico.png" group-title="LIVE TV " ENTRETENIMIENTO "",Gala tv
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/5
-#EXTINF:-1 tvg-id="" tvg-name="Once TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="LIVE TV " MEXICO "",Once TV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/6
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Azteca_Trece_2016-2.png" group-title="LIVE TV " MEXICO "",Azteca 13
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/7
-#EXTINF:-1 tvg-id="" tvg-name="Imagen tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Imagen-tv%281%29.png" group-title="LIVE TV " MEXICO "",Imagen tv
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/8
-#EXTINF:-1 tvg-id="" tvg-name="Milenio TV" tvg-logo="" group-title="NUEVO",Milenio TV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/9
-#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="" group-title="NUEVO",Canal 22
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/10
-#EXTINF:-1 tvg-id="" tvg-name="Canal 22-2" tvg-logo="" group-title="NUEVO",Canal 22-2
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/11
-#EXTINF:-1 tvg-id="" tvg-name="ExcelsiorTV" tvg-logo="" group-title="NUEVO",ExcelsiorTV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/12
-#EXTINF:-1 tvg-id="" tvg-name="Ingenio TV" tvg-logo="" group-title="NUEVO",Ingenio TV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/13
-#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="" group-title="NUEVO",Canal del Congreso
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/14
-#EXTINF:-1 tvg-id="" tvg-name="Canal 52MX" tvg-logo="" group-title="NUEVO",Canal 52MX
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/15
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="NUEVO",Fox
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/16
-#EXTINF:-1 tvg-id="" tvg-name="FOXHD" tvg-logo="" group-title="NUEVO",FOXHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/17
-#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="" group-title="NUEVO",Sony
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/18
-#EXTINF:-1 tvg-id="" tvg-name="SONYHD" tvg-logo="" group-title="NUEVO",SONYHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/19
-#EXTINF:-1 tvg-id="" tvg-name="UnicableHD" tvg-logo="" group-title="NUEVO",UnicableHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/20
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="NUEVO",Warner
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/21
-#EXTINF:-1 tvg-id="" tvg-name="WARNERHD" tvg-logo="" group-title="NUEVO",WARNERHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/22
-#EXTINF:-1 tvg-id="" tvg-name="E" tvg-logo="" group-title="NUEVO",E
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/23
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="NUEVO",FX
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/24
-#EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-logo="" group-title="NUEVO",FXHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/25
-#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="NUEVO",Universal
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/26
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSALHD" tvg-logo="" group-title="NUEVO",UNIVERSALHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/27
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="NUEVO",SyFy
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/28
-#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="NUEVO",ID
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/29
-#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="" group-title="NUEVO",ID HD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/30
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="NUEVO",TLC
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/31
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="NUEVO",A&E
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/32
-#EXTINF:-1 tvg-id="" tvg-name="A&EHD" tvg-logo="" group-title="NUEVO",A&EHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/33
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="NUEVO",AXN
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/34
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="NUEVO",AXN HD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/35
-#EXTINF:-1 tvg-id="" tvg-name="EstrellaTV" tvg-logo="" group-title="NUEVO",EstrellaTV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/36
-#EXTINF:-1 tvg-id="" tvg-name="TelemundoW" tvg-logo="" group-title="NUEVO",TelemundoW
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/37
-#EXTINF:-1 tvg-id="" tvg-name="TelemunHD" tvg-logo="" group-title="NUEVO",TelemunHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/38
-#EXTINF:-1 tvg-id="" tvg-name="Univision USA" tvg-logo="" group-title="NUEVO",Univision USA
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/39
-#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="" group-title="NUEVO",Univision
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/40
-#EXTINF:-1 tvg-id="" tvg-name="Unimas" tvg-logo="" group-title="NUEVO",Unimas
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/41
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Usa" tvg-logo="" group-title="NUEVO",Galavision Usa
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/42
-#EXTINF:-1 tvg-id="" tvg-name="AZmundo" tvg-logo="" group-title="NUEVO",AZmundo
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/43
-#EXTINF:-1 tvg-id="" tvg-name="h&h" tvg-logo="" group-title="NUEVO",h&h
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/44
-#EXTINF:-1 tvg-id="" tvg-name="H&HHD" tvg-logo="" group-title="NUEVO",H&HHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/45
-#EXTINF:-1 tvg-id="" tvg-name="A3S" tvg-logo="" group-title="NUEVO",A3S
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/46
-#EXTINF:-1 tvg-id="" tvg-name="Tlnovelas" tvg-logo="" group-title="NUEVO",Tlnovelas
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/47
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="" group-title="NUEVO",Pasiones
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/48
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="NUEVO",TNT Series
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/49
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="NUEVO",H2
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/50
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="NUEVO",TBS
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/51
-#EXTINF:-1 tvg-id="" tvg-name="FoxLife" tvg-logo="" group-title="NUEVO",FoxLife
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/52
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="NUEVO",Comedy Central
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/53
-#EXTINF:-1 tvg-id="" tvg-name="Hola" tvg-logo="" group-title="NUEVO",Hola
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/54
-#EXTINF:-1 tvg-id="" tvg-name="TVC" tvg-logo="" group-title="NUEVO",TVC
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/55
-#EXTINF:-1 tvg-id="" tvg-name="Multimedios Monterrey" tvg-logo="" group-title="NUEVO",Multimedios Monterrey
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/56
-#EXTINF:-1 tvg-id="" tvg-name="Multimedios Mty" tvg-logo="" group-title="NUEVO",Multimedios Mty
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/57
-#EXTINF:-1 tvg-id="" tvg-name="NG Wild" tvg-logo="" group-title="NUEVO",NG Wild
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/58
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="NUEVO",Discovery Channel
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/59
-#EXTINF:-1 tvg-id="" tvg-name="Theater" tvg-logo="" group-title="NUEVO",Theater
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/60
-#EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="NUEVO",Turbo
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/61
-#EXTINF:-1 tvg-id="" tvg-name="World" tvg-logo="" group-title="NUEVO",World
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/62
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="NUEVO",Animal Planet
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/63
-#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="NUEVO",History Channel
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/64
-#EXTINF:-1 tvg-id="" tvg-name="HISTORYHD" tvg-logo="" group-title="NUEVO",HISTORYHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/65
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="" group-title="NUEVO",NatGeo
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/66
-#EXTINF:-1 tvg-id="" tvg-name="TV UNAM" tvg-logo="" group-title="NUEVO",TV UNAM
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/67
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="NUEVO",Lifetime
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/68
-#EXTINF:-1 tvg-id="" tvg-name="Arts" tvg-logo="" group-title="NUEVO",Arts
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/69
-#EXTINF:-1 tvg-id="" tvg-name="Una Voz con Todos" tvg-logo="" group-title="NUEVO",Una Voz con Todos
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/70
-#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="" group-title="NUEVO",RT
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/71
-#EXTINF:-1 tvg-id="" tvg-name="TVE 3" tvg-logo="" group-title="NUEVO",TVE 3
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/73
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids" tvg-logo="" group-title="NUEVO",NatGeo Kids
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/74
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="NUEVO",Discovery Kids
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/75
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="NUEVO",Nickelodeon
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/76
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="NUEVO",Disney XD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/77
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="NUEVO",Cartoon Network
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/78
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="NUEVO",Disney Channel
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/79
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="NUEVO",Boomerang
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/81
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="NUEVO",Baby TV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/82
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="NUEVO",Nick Jr
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/83
-#EXTINF:-1 tvg-id="" tvg-name="AnimeTV" tvg-logo="" group-title="NUEVO",AnimeTV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/84
-#EXTINF:-1 tvg-id="" tvg-name="OnC.2" tvg-logo="" group-title="NUEVO",OnC.2
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/85
-#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="" group-title="NUEVO",Disney Jr
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/86
-#EXTINF:-1 tvg-id="" tvg-name="Cbeebies" tvg-logo="" group-title="NUEVO",Cbeebies
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/87
-#EXTINF:-1 tvg-id="" tvg-name="DPelÃ­culaHD" tvg-logo="" group-title="NUEVO",DPelÃ­culaHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/88
-#EXTINF:-1 tvg-id="" tvg-name="DPelÃ­cula Multiplex" tvg-logo="" group-title="NUEVO",DPelÃ­cula Multiplex
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/89
-#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="NUEVO",Cine Latino
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/90
-#EXTINF:-1 tvg-id="" tvg-name="CINELATHD" tvg-logo="" group-title="NUEVO",CINELATHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/91
-#EXTINF:-1 tvg-id="" tvg-name="MP" tvg-logo="" group-title="NUEVO",MP
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/92
-#EXTINF:-1 tvg-id="" tvg-name="FX Movies Lat" tvg-logo="" group-title="NUEVO",FX Movies Lat
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/93
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="" group-title="NUEVO",Paramount Channel
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/94
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="NUEVO",TNT
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/95
-#EXTINF:-1 tvg-id="" tvg-name="TNTHD" tvg-logo="" group-title="NUEVO",TNTHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/96
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal W" tvg-logo="" group-title="NUEVO",Cinecanal W
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/97
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="NUEVO",Space
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/98
-#EXTINF:-1 tvg-id="" tvg-name="SPACEHD" tvg-logo="" group-title="NUEVO",SPACEHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/99
-#EXTINF:-1 tvg-id="" tvg-name="Studio" tvg-logo="" group-title="NUEVO",Studio
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/100
-#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="" group-title="NUEVO",MC
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/101
-#EXTINF:-1 tvg-id="" tvg-name="I.Sat" tvg-logo="" group-title="NUEVO",I.Sat
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/102
-#EXTINF:-1 tvg-id="" tvg-name="Filmzone" tvg-logo="" group-title="NUEVO",Filmzone
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/103
-#EXTINF:-1 tvg-id="" tvg-name="Fox 1" tvg-logo="" group-title="NUEVO",Fox 1
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/104
-#EXTINF:-1 tvg-id="" tvg-name="FOXSERHD" tvg-logo="" group-title="NUEVO",FOXSERHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/105
-#EXTINF:-1 tvg-id="" tvg-name="Fox Family" tvg-logo="" group-title="NUEVO",Fox Family
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/106
-#EXTINF:-1 tvg-id="" tvg-name="Fox Action" tvg-logo="" group-title="NUEVO",Fox Action
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/107
-#EXTINF:-1 tvg-id="" tvg-name="FOXACTHD" tvg-logo="" group-title="NUEVO",FOXACTHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/108
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="" group-title="NUEVO",Fox Movies
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/109
-#EXTINF:-1 tvg-id="" tvg-name="FOXMOVIHD" tvg-logo="" group-title="NUEVO",FOXMOVIHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/110
-#EXTINF:-1 tvg-id="" tvg-name="Fox Classics" tvg-logo="" group-title="NUEVO",Fox Classics
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/111
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="NUEVO",HBO 2
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/112
-#EXTINF:-1 tvg-id="" tvg-name="HBO W" tvg-logo="" group-title="NUEVO",HBO W
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/113
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="NUEVO",HBO Plus
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/114
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="NUEVO",HBO Family
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/115
-#EXTINF:-1 tvg-id="" tvg-name="Max Prime" tvg-logo="" group-title="NUEVO",Max Prime
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/116
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax O" tvg-logo="" group-title="NUEVO",Cinemax O
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/117
-#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA" tvg-logo="" group-title="NUEVO",ADRENALINA
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/141
-#EXTINF:-1 tvg-id="" tvg-name="CNN USA" tvg-logo="" group-title="NUEVO",CNN USA
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/142
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="NUEVO",CNN
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/143
-#EXTINF:-1 tvg-id="" tvg-name="El financiero" tvg-logo="" group-title="NUEVO",El financiero
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/144
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="NUEVO",MTV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/145
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="NUEVO",MTV Hits
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/146
-#EXTINF:-1 tvg-id="" tvg-name="Mtv Tres" tvg-logo="" group-title="NUEVO",Mtv Tres
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/147
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="NUEVO",VH1
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/148
-#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="" group-title="NUEVO",Telehit
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/149
-#EXTINF:-1 tvg-id="" tvg-name="Az Clic" tvg-logo="" group-title="NUEVO",Az Clic
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/150
-#EXTINF:-1 tvg-id="" tvg-name="VideoRola" tvg-logo="" group-title="NUEVO",VideoRola
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/151
-#EXTINF:-1 tvg-id="" tvg-name="Teleritmo" tvg-logo="" group-title="NUEVO",Teleritmo
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/152
-#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="" group-title="NUEVO",Bandamax
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/153
-#EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="" group-title="NUEVO",Exa TV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/154
-#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="" group-title="NUEVO",HTV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/155
-#EXTINF:-1 tvg-id="" tvg-name="Nu Music" tvg-logo="" group-title="NUEVO",Nu Music
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/156
-#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="" group-title="NUEVO",USA
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/157
-#EXTINF:-1 tvg-id="" tvg-name="CMDY" tvg-logo="" group-title="NUEVO",CMDY
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/158
-#EXTINF:-1 tvg-id="" tvg-name="LIFE" tvg-logo="" group-title="NUEVO",LIFE
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/159
-#EXTINF:-1 tvg-id="" tvg-name="LMN" tvg-logo="" group-title="NUEVO",LMN
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/160
-#EXTINF:-1 tvg-id="" tvg-name="FOOD" tvg-logo="" group-title="NUEVO",FOOD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/161
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="NUEVO",HGTV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/162
-#EXTINF:-1 tvg-id="" tvg-name="COOKING" tvg-logo="" group-title="NUEVO",COOKING
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/163
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="NUEVO",E!
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/164
-#EXTINF:-1 tvg-id="" tvg-name="E.jpg",A&amp;E" tvg-logo="" group-title="NUEVO",E.jpg",A&amp;E
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/165
-#EXTINF:-1 tvg-id="" tvg-name="FYI" tvg-logo="" group-title="NUEVO",FYI
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/166
-#EXTINF:-1 tvg-id="" tvg-name="HIST" tvg-logo="" group-title="NUEVO",HIST
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/167
-#EXTINF:-1 tvg-id="" tvg-name="VICE" tvg-logo="" group-title="NUEVO",VICE
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/168
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="NUEVO",SYFY
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/169
-#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="" group-title="NUEVO",BET
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/170
-#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="" group-title="NUEVO",FXX
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/171
-#EXTINF:-1 tvg-id="" tvg-name="WE" tvg-logo="" group-title="NUEVO",WE
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/172
-#EXTINF:-1 tvg-id="" tvg-name="BRAVO" tvg-logo="" group-title="NUEVO",BRAVO
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/173
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="NUEVO",AMC
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/174
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="NUEVO",FX
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/175
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="NUEVO",TNT
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/176
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="NUEVO",TBS
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/177
-#EXTINF:-1 tvg-id="" tvg-name="Velocity" tvg-logo="" group-title="NUEVO",Velocity
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/181
-#EXTINF:-1 tvg-id="" tvg-name="CBSSN" tvg-logo="" group-title="NUEVO",CBSSN
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/184
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sport" tvg-logo="" group-title="NUEVO",NBC Sport
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/185
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="NUEVO",MTV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/186
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="NUEVO",VH1
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/187
-#EXTINF:-1 tvg-id="" tvg-name="CMT" tvg-logo="" group-title="NUEVO",CMT
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/188
-#EXTINF:-1 tvg-id="" tvg-name="AXS" tvg-logo="" group-title="NUEVO",AXS
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/189
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="" group-title="NUEVO",NICK
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/190
-#EXTINF:-1 tvg-id="" tvg-name=",DISE" tvg-logo="" group-title="NUEVO",,DISE
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/191
-#EXTINF:-1 tvg-id="" tvg-name="TOON" tvg-logo="" group-title="NUEVO",TOON
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/192
-#EXTINF:-1 tvg-id="" tvg-name="DISCF" tvg-logo="" group-title="NUEVO",DISCF
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/193
-#EXTINF:-1 tvg-id="" tvg-name="FRFM" tvg-logo="" group-title="NUEVO",FRFM
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/194
-#EXTINF:-1 tvg-id="" tvg-name="DISC" tvg-logo="" group-title="NUEVO",DISC
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/195
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="NUEVO",TLC
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/196
-#EXTINF:-1 tvg-id="" tvg-name="APL" tvg-logo="" group-title="NUEVO",APL
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/197
-#EXTINF:-1 tvg-id="" tvg-name="NTGEO" tvg-logo="" group-title="NUEVO",NTGEO
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/198
-#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="" group-title="NUEVO",OWN
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/199
-#EXTINF:-1 tvg-id="" tvg-name="NATGW" tvg-logo="" group-title="NUEVO",NATGW
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/200
-#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="NUEVO",ID
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/201
-#EXTINF:-1 tvg-id="" tvg-name="SCI" tvg-logo="" group-title="NUEVO",SCI
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/202
-#EXTINF:-1 tvg-id="" tvg-name="TRV" tvg-logo="" group-title="NUEVO",TRV
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/203
-#EXTINF:-1 tvg-id="" tvg-name="Destination America" tvg-logo="" group-title="NUEVO",Destination America
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/204
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="NUEVO",CNN
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/205
-#EXTINF:-1 tvg-id="" tvg-name="FXNWS" tvg-logo="" group-title="NUEVO",FXNWS
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/206
-#EXTINF:-1 tvg-id="" tvg-name="FOXB" tvg-logo="" group-title="NUEVO",FOXB
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/207
-#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="NUEVO",CNBC
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/208
-#EXTINF:-1 tvg-id="" tvg-name="WEATH" tvg-logo="" group-title="NUEVO",WEATH
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/209
-#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="NUEVO",Paramount
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/210
-#EXTINF:-1 tvg-id="" tvg-name="TRU" tvg-logo="" group-title="NUEVO",TRU
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/211
-#EXTINF:-1 tvg-id="" tvg-name="HBO-W" tvg-logo="" group-title="NUEVO",HBO-W
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/212
-#EXTINF:-1 tvg-id="" tvg-name="5-MAX" tvg-logo="" group-title="NUEVO",5-MAX
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/213
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME East" tvg-logo="" group-title="NUEVO",SHOWTIME East
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/214
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME West" tvg-logo="" group-title="NUEVO",SHOWTIME West
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/215
-#EXTINF:-1 tvg-id="" tvg-name="TMC East" tvg-logo="" group-title="NUEVO",TMC East
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/216
-#EXTINF:-1 tvg-id="" tvg-name="STRZ West" tvg-logo="" group-title="NUEVO",STRZ West
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/217
-#EXTINF:-1 tvg-id="" tvg-name="STZC" tvg-logo="" group-title="NUEVO",STZC
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/218
-#EXTINF:-1 tvg-id="" tvg-name="SK&amp;FM" tvg-logo="" group-title="NUEVO",SK&amp;FM
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/219
-#EXTINF:-1 tvg-id="" tvg-name="FX Movies" tvg-logo="" group-title="NUEVO",FX Movies
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/220
-#EXTINF:-1 tvg-id="" tvg-name="Hallmark" tvg-logo="" group-title="NUEVO",Hallmark
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/221
-#EXTINF:-1 tvg-id="" tvg-name="HLMRK" tvg-logo="" group-title="NUEVO",HLMRK
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/222
-#EXTINF:-1 tvg-id="" tvg-name="SPMAN" tvg-logo="" group-title="NUEVO",SPMAN
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/223
-#EXTINF:-1 tvg-id="" tvg-name="OTDCH" tvg-logo="" group-title="NUEVO",OTDCH
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/224
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="" group-title="NUEVO",Tennis Channel
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/225
-#EXTINF:-1 tvg-id="" tvg-name="NBC Universo" tvg-logo="" group-title="NUEVO",NBC Universo
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/227
-#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="" group-title="NUEVO",Univision
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/230
-#EXTINF:-1 tvg-id="" tvg-name="TelemundoW" tvg-logo="" group-title="NUEVO",TelemundoW
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/231
-#EXTINF:-1 tvg-id="" tvg-name="TelemunHD" tvg-logo="" group-title="NUEVO",TelemunHD
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/232
-#EXTINF:-1 tvg-id="" tvg-name="Unimas" tvg-logo="" group-title="NUEVO",Unimas
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/233
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Usa" tvg-logo="" group-title="NUEVO",Galavision Usa
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/234
-#EXTINF:-1 tvg-id="" tvg-name="abc NY" tvg-logo="" group-title="NUEVO",abc NY
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/238
-#EXTINF:-1 tvg-id="" tvg-name="cbs NY" tvg-logo="" group-title="NUEVO",cbs NY
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/239
-#EXTINF:-1 tvg-id="" tvg-name="nbc NY" tvg-logo="" group-title="NUEVO",nbc NY
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/240
-#EXTINF:-1 tvg-id="" tvg-name="Univision NY" tvg-logo="" group-title="NUEVO",Univision NY
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/241
-#EXTINF:-1 tvg-id="" tvg-name="Fox LA" tvg-logo="" group-title="NUEVO",Fox LA
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/242
-#EXTINF:-1 tvg-id="" tvg-name="WIPR" tvg-logo="" group-title="NUEVO",WIPR
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/243
-#EXTINF:-1 tvg-id="" tvg-name="Tiva PR" tvg-logo="" group-title="NUEVO",Tiva PR
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/244
-#EXTINF:-1 tvg-id="" tvg-name="megatv PR" tvg-logo="" group-title="NUEVO",megatv PR
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/245
-#EXTINF:-1 tvg-id="" tvg-name="nbc PR" tvg-logo="" group-title="NUEVO",nbc PR
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/246
-#EXTINF:-1 tvg-id="" tvg-name="Punto 2" tvg-logo="" group-title="NUEVO",Punto 2
-http://zufreelist.net:2095/listazutvcodem3u1509/listazutvcodem3u/247
+#EXTINF:0 tvg-chno="0" tvg-name="A+V (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",A+V (URU)
+http://f.ok2.se:8000/Karine/Karine/86878
+#EXTINF:0 tvg-chno="0" tvg-name="AMERICA 24 (ARG)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",AMERICA 24 (ARG)
+http://f.ok2.se:8000/Karine/Karine/64065
+#EXTINF:0 tvg-chno="0" tvg-name="AMERICA TV (PERU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",AMERICA TV (PERU)
+http://f.ok2.se:8000/Karine/Karine/15315
+#EXTINF:0 tvg-chno="0" tvg-name="ANTENA3 INTERNACIONAL (ES) - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",ANTENA3 INTERNACIONAL (ES) - NEW
+http://f.ok2.se:8000/Karine/Karine/65726
+#EXTINF:0 tvg-chno="0" tvg-name="ARTIGAS TELEVISION (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",ARTIGAS TELEVISION (URU)
+http://f.ok2.se:8000/Karine/Karine/86879
+#EXTINF:0 tvg-chno="0" tvg-name="ATV NOTICIAS HD" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",ATV NOTICIAS HD
+http://f.ok2.se:8000/Karine/Karine/63003
+#EXTINF:0 tvg-chno="0" tvg-name="AZTECA" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",AZTECA
+http://f.ok2.se:8000/Karine/Karine/451
+#EXTINF:0 tvg-chno="0" tvg-name="CABLE NOTICIAS (COLOMBIA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CABLE NOTICIAS (COLOMBIA)
+http://f.ok2.se:8000/Karine/Karine/15327
+#EXTINF:0 tvg-chno="0" tvg-name="CANAL 12 MELO (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CANAL 12 MELO (URU)
+http://f.ok2.se:8000/Karine/Karine/86881
+#EXTINF:0 tvg-chno="0" tvg-name="CANAL 13 (CHILE)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CANAL 13 (CHILE)
+http://f.ok2.se:8000/Karine/Karine/15345
+#EXTINF:0 tvg-chno="0" tvg-name="CANAL 2 SAN CARLOS (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CANAL 2 SAN CARLOS (URU)
+http://f.ok2.se:8000/Karine/Karine/86883
+#EXTINF:0 tvg-chno="0" tvg-name="CANAL 26 (ARG)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CANAL 26 (ARG)
+http://f.ok2.se:8000/Karine/Karine/64072
+#EXTINF:0 tvg-chno="0" tvg-name="CANAL 4 PAYSANDU (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CANAL 4 PAYSANDU (URU)
+http://f.ok2.se:8000/Karine/Karine/86884
+#EXTINF:0 tvg-chno="0" tvg-name="CANAL 7 PUNTA (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CANAL 7 PUNTA (URU)
+http://f.ok2.se:8000/Karine/Karine/86885
+#EXTINF:0 tvg-chno="0" tvg-name="CANAL CAPITAL (COLOMBIA) - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CANAL CAPITAL (COLOMBIA) - NEW
+http://f.ok2.se:8000/Karine/Karine/59398
+#EXTINF:0 tvg-chno="0" tvg-name="CANAL M (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CANAL M (URU)
+http://f.ok2.se:8000/Karine/Karine/86887
+#EXTINF:0 tvg-chno="0" tvg-name="CANAL N (PERU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CANAL N (PERU)
+http://f.ok2.se:8000/Karine/Karine/15313
+#EXTINF:0 tvg-chno="0" tvg-name="CANAL UNO (ECU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CANAL UNO (ECU)
+http://f.ok2.se:8000/Karine/Karine/64388
+#EXTINF:0 tvg-chno="0" tvg-name="CAPITAL TV (PERU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CAPITAL TV (PERU)
+http://f.ok2.se:8000/Karine/Karine/15312
+#EXTINF:0 tvg-chno="0" tvg-name="CARACOL (COLOMBIA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CARACOL (COLOMBIA)
+http://f.ok2.se:8000/Karine/Karine/15325
+#EXTINF:0 tvg-chno="0" tvg-name="CARACOL INT" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CARACOL INT
+http://f.ok2.se:8000/Karine/Karine/449
+#EXTINF:0 tvg-chno="0" tvg-name="CENTRO AMERICA TV" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CENTRO AMERICA TV
+http://f.ok2.se:8000/Karine/Karine/444
+#EXTINF:0 tvg-chno="0" tvg-name="CHILEVISION (CHILE)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CHILEVISION (CHILE)
+http://f.ok2.se:8000/Karine/Karine/90478
+#EXTINF:0 tvg-chno="0" tvg-name="CINE LATINO (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CINE LATINO (ES)
+http://f.ok2.se:8000/Karine/Karine/30862
+#EXTINF:0 tvg-chno="0" tvg-name="CINE SONY (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CINE SONY (ES)
+http://f.ok2.se:8000/Karine/Karine/435
+#EXTINF:0 tvg-chno="0" tvg-name="CINEMAX HD ES - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CINEMAX HD ES - NEW
+http://f.ok2.se:8000/Karine/Karine/419
+#EXTINF:0 tvg-chno="0" tvg-name="CLAVE (CUBA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CLAVE (CUBA)
+http://f.ok2.se:8000/Karine/Karine/64795
+#EXTINF:0 tvg-chno="0" tvg-name="CNN (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CNN (ES)
+http://f.ok2.se:8000/Karine/Karine/429
+#EXTINF:0 tvg-chno="0" tvg-name="CUBAMAX (NA) - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CUBAMAX (NA) - NEW
+http://f.ok2.se:8000/Karine/Karine/69023
+#EXTINF:0 tvg-chno="0" tvg-name="CUBAVISION INT" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",CUBAVISION INT
+http://f.ok2.se:8000/Karine/Karine/9051
+#EXTINF:0 tvg-chno="0" tvg-name="DIGITAL 15 (DR)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",DIGITAL 15 (DR)
+http://f.ok2.se:8000/Karine/Karine/8951
+#EXTINF:0 tvg-chno="0" tvg-name="DISCOVERY HD ES" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",DISCOVERY HD ES
+http://f.ok2.se:8000/Karine/Karine/430
+#EXTINF:0 tvg-chno="0" tvg-name="EC TV" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",EC TV
+http://f.ok2.se:8000/Karine/Karine/441
+#EXTINF:0 tvg-chno="0" tvg-name="ECUA TV" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",ECUA TV
+http://f.ok2.se:8000/Karine/Karine/440
+#EXTINF:0 tvg-chno="0" tvg-name="ECUADOR TV (ECU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",ECUADOR TV (ECU)
+http://f.ok2.se:8000/Karine/Karine/64386
+#EXTINF:0 tvg-chno="0" tvg-name="ECUAVISA (ECU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",ECUAVISA (ECU)
+http://f.ok2.se:8000/Karine/Karine/64385
+#EXTINF:0 tvg-chno="0" tvg-name="EUROPA (ARG)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",EUROPA (ARG)
+http://f.ok2.se:8000/Karine/Karine/64363
+#EXTINF:0 tvg-chno="0" tvg-name="EXITOSA HD (PERU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",EXITOSA HD (PERU)
+http://f.ok2.se:8000/Karine/Karine/15310
+#EXTINF:0 tvg-chno="0" tvg-name="GALAVISION" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",GALAVISION
+http://f.ok2.se:8000/Karine/Karine/414
+#EXTINF:0 tvg-chno="0" tvg-name="GALAVISION WEST" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",GALAVISION WEST
+http://f.ok2.se:8000/Karine/Karine/42673
+#EXTINF:0 tvg-chno="0" tvg-name="GLOBO VISION (VEN)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",GLOBO VISION (VEN)
+http://f.ok2.se:8000/Karine/Karine/48022
+#EXTINF:0 tvg-chno="0" tvg-name="GOURMET (ARG)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",GOURMET (ARG)
+http://f.ok2.se:8000/Karine/Karine/64365
+#EXTINF:0 tvg-chno="0" tvg-name="HBO EAST HD (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",HBO EAST HD (ES)
+http://f.ok2.se:8000/Karine/Karine/420
+#EXTINF:0 tvg-chno="0" tvg-name="HISTORY (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",HISTORY (ES)
+http://f.ok2.se:8000/Karine/Karine/431
+#EXTINF:0 tvg-chno="0" tvg-name="HITN (ES) - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",HITN (ES) - NEW
+http://f.ok2.se:8000/Karine/Karine/31461
+#EXTINF:0 tvg-chno="0" tvg-name="IPE HD (PERU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",IPE HD (PERU)
+http://f.ok2.se:8000/Karine/Karine/15305
+#EXTINF:0 tvg-chno="0" tvg-name="LA MEGA (CHILE)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",LA MEGA (CHILE)
+http://f.ok2.se:8000/Karine/Karine/15339
+#EXTINF:0 tvg-chno="0" tvg-name="LA RED (CHILE)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",LA RED (CHILE)
+http://f.ok2.se:8000/Karine/Karine/15338
+#EXTINF:0 tvg-chno="0" tvg-name="LA TELE HD (PERU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",LA TELE HD (PERU)
+http://f.ok2.se:8000/Karine/Karine/63002
+#EXTINF:0 tvg-chno="0" tvg-name="LAKALLE (COLOMBIA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",LAKALLE (COLOMBIA)
+http://f.ok2.se:8000/Karine/Karine/15318
+#EXTINF:0 tvg-chno="0" tvg-name="LATINA TV PAYSANDU (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",LATINA TV PAYSANDU (URU)
+http://f.ok2.se:8000/Karine/Karine/86891
+#EXTINF:0 tvg-chno="0" tvg-name="MEGA HD (NEW)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",MEGA HD (NEW)
+http://f.ok2.se:8000/Karine/Karine/418
+#EXTINF:0 tvg-chno="0" tvg-name="MULTIVISION (CUBA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",MULTIVISION (CUBA)
+http://f.ok2.se:8000/Karine/Karine/15334
+#EXTINF:0 tvg-chno="0" tvg-name="MUSICA 1 (REGGAETON)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",MUSICA 1 (REGGAETON)
+http://f.ok2.se:8000/Karine/Karine/6583
+#EXTINF:0 tvg-chno="0" tvg-name="MUSICA 2 (REGGAETON) (2017)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",MUSICA 2 (REGGAETON) (2017)
+http://f.ok2.se:8000/Karine/Karine/6584
+#EXTINF:0 tvg-chno="0" tvg-name="MUSICA 3 (REGGAETON) (VEVO)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",MUSICA 3 (REGGAETON) (VEVO)
+http://f.ok2.se:8000/Karine/Karine/6585
+#EXTINF:0 tvg-chno="0" tvg-name="MUSICA 4 (2017)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",MUSICA 4 (2017)
+http://f.ok2.se:8000/Karine/Karine/6586
+#EXTINF:0 tvg-chno="0" tvg-name="NBC UNIVERSO HD" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",NBC UNIVERSO HD
+http://f.ok2.se:8000/Karine/Karine/417
+#EXTINF:0 tvg-chno="0" tvg-name="NEXTV (PANAMA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",NEXTV (PANAMA)
+http://f.ok2.se:8000/Karine/Karine/65595
+#EXTINF:0 tvg-chno="0" tvg-name="NEXTV HD (PERU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",NEXTV HD (PERU)
+http://f.ok2.se:8000/Karine/Karine/63001
+#EXTINF:0 tvg-chno="0" tvg-name="NUESTRATELE NOTICIAS 24 - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",NUESTRATELE NOTICIAS 24 - NEW
+http://f.ok2.se:8000/Karine/Karine/450
+#EXTINF:0 tvg-chno="0" tvg-name="PANAMERICANA (PERU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",PANAMERICANA (PERU)
+http://f.ok2.se:8000/Karine/Karine/15308
+#EXTINF:0 tvg-chno="0" tvg-name="PASIONES" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",PASIONES
+http://f.ok2.se:8000/Karine/Karine/426
+#EXTINF:0 tvg-chno="0" tvg-name="PERU MAGICO" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",PERU MAGICO
+http://f.ok2.se:8000/Karine/Karine/439
+#EXTINF:0 tvg-chno="0" tvg-name="RCN (COLOMBIA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",RCN (COLOMBIA)
+http://f.ok2.se:8000/Karine/Karine/15321
+#EXTINF:0 tvg-chno="0" tvg-name="RCN INT" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",RCN INT
+http://f.ok2.se:8000/Karine/Karine/448
+#EXTINF:0 tvg-chno="0" tvg-name="RTS (ECU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",RTS (ECU)
+http://f.ok2.se:8000/Karine/Karine/64381
+#EXTINF:0 tvg-chno="0" tvg-name="RTV (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",RTV (URU)
+http://f.ok2.se:8000/Karine/Karine/86892
+#EXTINF:0 tvg-chno="0" tvg-name="SUR PERU" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",SUR PERU
+http://f.ok2.se:8000/Karine/Karine/8653
+#EXTINF:0 tvg-chno="0" tvg-name="TC (ECU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TC (ECU)
+http://f.ok2.se:8000/Karine/Karine/64380
+#EXTINF:0 tvg-chno="0" tvg-name="TELE AZTECA (HONDURAS)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELE AZTECA (HONDURAS)
+http://f.ok2.se:8000/Karine/Karine/65591
+#EXTINF:0 tvg-chno="0" tvg-name="TELE CAFE (COLOMBIA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELE CAFE (COLOMBIA)
+http://f.ok2.se:8000/Karine/Karine/15319
+#EXTINF:0 tvg-chno="0" tvg-name="TELE CENTRO (DR)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELE CENTRO (DR)
+http://f.ok2.se:8000/Karine/Karine/8948
+#EXTINF:0 tvg-chno="0" tvg-name="TELE FUTURO (DR)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELE FUTURO (DR)
+http://f.ok2.se:8000/Karine/Karine/8944
+#EXTINF:0 tvg-chno="0" tvg-name="TELE MICRO (DR)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELE MICRO (DR)
+http://f.ok2.se:8000/Karine/Karine/8939
+#EXTINF:0 tvg-chno="0" tvg-name="TELE NORD10 (DR)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELE NORD10 (DR)
+http://f.ok2.se:8000/Karine/Karine/8935
+#EXTINF:0 tvg-chno="0" tvg-name="TELE UNIVERSO (DR)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELE UNIVERSO (DR)
+http://f.ok2.se:8000/Karine/Karine/8943
+#EXTINF:0 tvg-chno="0" tvg-name="TELEAMAZONAS (COLOMBIA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEAMAZONAS (COLOMBIA)
+http://f.ok2.se:8000/Karine/Karine/15316
+#EXTINF:0 tvg-chno="0" tvg-name="TELEAMAZONAS (ECU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEAMAZONAS (ECU)
+http://f.ok2.se:8000/Karine/Karine/64379
+#EXTINF:0 tvg-chno="0" tvg-name="TELEFE" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEFE
+http://f.ok2.se:8000/Karine/Karine/446
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO EAST" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO EAST
+http://f.ok2.se:8000/Karine/Karine/415
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KBLR-LAS VEGAS" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KBLR-LAS VEGAS
+http://f.ok2.se:8000/Karine/Karine/82401
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KCSO-SACRAMENTO" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KCSO-SACRAMENTO
+http://f.ok2.se:8000/Karine/Karine/82402
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KDEN-DENVER" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KDEN-DENVER
+http://f.ok2.se:8000/Karine/Karine/82403
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KHRR-TUSCON" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KHRR-TUSCON
+http://f.ok2.se:8000/Karine/Karine/82411
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KNSD-SAN DIEGO" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KNSD-SAN DIEGO
+http://f.ok2.se:8000/Karine/Karine/82391
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KNSO-FRESNO" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KNSO-FRESNO
+http://f.ok2.se:8000/Karine/Karine/82410
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KSTS-SAN JOSE" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KSTS-SAN JOSE
+http://f.ok2.se:8000/Karine/Karine/82409
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KTAZ-PHOENIX" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KTAZ-PHOENIX
+http://f.ok2.se:8000/Karine/Karine/82408
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KTDO-EL PASO" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KTDO-EL PASO
+http://f.ok2.se:8000/Karine/Karine/82407
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KTLM-RIO GRANDE" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KTLM-RIO GRANDE
+http://f.ok2.se:8000/Karine/Karine/82406
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KTMD-HOUSTON" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KTMD-HOUSTON
+http://f.ok2.se:8000/Karine/Karine/82405
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KUAN-SAN DIEGO" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KUAN-SAN DIEGO
+http://f.ok2.se:8000/Karine/Karine/82404
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KVDA-SAN ANTONIO" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KVDA-SAN ANTONIO
+http://f.ok2.se:8000/Karine/Karine/82400
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KVEA-LOS ANGELES" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KVEA-LOS ANGELES
+http://f.ok2.se:8000/Karine/Karine/82399
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO KXTX-DALLAS" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO KXTX-DALLAS
+http://f.ok2.se:8000/Karine/Karine/82398
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WEST" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WEST
+http://f.ok2.se:8000/Karine/Karine/416
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WKTB-ATLANTA" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WKTB-ATLANTA
+http://f.ok2.se:8000/Karine/Karine/82397
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WNEU-BOSTON" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WNEU-BOSTON
+http://f.ok2.se:8000/Karine/Karine/82396
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WNJU-NEW YORK CITY" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WNJU-NEW YORK CITY
+http://f.ok2.se:8000/Karine/Karine/82395
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WRDM-HARTFORD" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WRDM-HARTFORD
+http://f.ok2.se:8000/Karine/Karine/82390
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WRMD-TAMPA" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WRMD-TAMPA
+http://f.ok2.se:8000/Karine/Karine/82387
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WSCV-FORT LAUDERDALE" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WSCV-FORT LAUDERDALE
+http://f.ok2.se:8000/Karine/Karine/82394
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WSNS-CHICAGO" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WSNS-CHICAGO
+http://f.ok2.se:8000/Karine/Karine/82389
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WWDT-FORT MEYERS" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WWDT-FORT MEYERS
+http://f.ok2.se:8000/Karine/Karine/82388
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WWSI-PHILADELPHIA" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WWSI-PHILADELPHIA
+http://f.ok2.se:8000/Karine/Karine/82393
+#EXTINF:0 tvg-chno="0" tvg-name="TELEMUNDO WZDC-WASHINGTON DC" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEMUNDO WZDC-WASHINGTON DC
+http://f.ok2.se:8000/Karine/Karine/82392
+#EXTINF:0 tvg-chno="0" tvg-name="TELEORO (PUERTO RICO)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEORO (PUERTO RICO)
+http://f.ok2.se:8000/Karine/Karine/65594
+#EXTINF:0 tvg-chno="0" tvg-name="TELEREBELDE (CUBA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEREBELDE (CUBA)
+http://f.ok2.se:8000/Karine/Karine/15332
+#EXTINF:0 tvg-chno="0" tvg-name="TELERED (CR)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELERED (CR)
+http://f.ok2.se:8000/Karine/Karine/65597
+#EXTINF:0 tvg-chno="0" tvg-name="TELETICA (CR)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELETICA (CR)
+http://f.ok2.se:8000/Karine/Karine/65596
+#EXTINF:0 tvg-chno="0" tvg-name="TELEVISION NACIONAL URUGUAY (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TELEVISION NACIONAL URUGUAY (URU)
+http://f.ok2.se:8000/Karine/Karine/86896
+#EXTINF:0 tvg-chno="0" tvg-name="TEN HD (HONDURAS)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TEN HD (HONDURAS)
+http://f.ok2.se:8000/Karine/Karine/65589
+#EXTINF:0 tvg-chno="0" tvg-name="TLNOVELAS HD" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TLNOVELAS HD
+http://f.ok2.se:8000/Karine/Karine/427
+#EXTINF:0 tvg-chno="0" tvg-name="TV CHILE" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TV CHILE
+http://f.ok2.se:8000/Karine/Karine/442
+#EXTINF:0 tvg-chno="0" tvg-name="TV CHILE (CHILE)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TV CHILE (CHILE)
+http://f.ok2.se:8000/Karine/Karine/79008
+#EXTINF:0 tvg-chno="0" tvg-name="TV CIUDAD (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TV CIUDAD (URU)
+http://f.ok2.se:8000/Karine/Karine/86893
+#EXTINF:0 tvg-chno="0" tvg-name="TV ESPANA" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TV ESPANA
+http://f.ok2.se:8000/Karine/Karine/445
+#EXTINF:0 tvg-chno="0" tvg-name="TV VENEZUELA - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TV VENEZUELA - NEW
+http://f.ok2.se:8000/Karine/Karine/443
+#EXTINF:0 tvg-chno="0" tvg-name="TVE 24 (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TVE 24 (ES)
+http://f.ok2.se:8000/Karine/Karine/4786
+#EXTINF:0 tvg-chno="0" tvg-name="TVE INT (PT)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TVE INT (PT)
+http://f.ok2.se:8000/Karine/Karine/557
+#EXTINF:0 tvg-chno="0" tvg-name="TVN (CHILE)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",TVN (CHILE)
+http://f.ok2.se:8000/Karine/Karine/15337
+#EXTINF:0 tvg-chno="0" tvg-name="UNIMAS HD" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",UNIMAS HD
+http://f.ok2.se:8000/Karine/Karine/425
+#EXTINF:0 tvg-chno="0" tvg-name="UNIVISION (CDN) - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",UNIVISION (CDN) - NEW
+http://f.ok2.se:8000/Karine/Karine/66070
+#EXTINF:0 tvg-chno="0" tvg-name="UNIVISION EAST HD" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",UNIVISION EAST HD
+http://f.ok2.se:8000/Karine/Karine/8253
+#EXTINF:0 tvg-chno="0" tvg-name="UNIVISION WEST (LA)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",UNIVISION WEST (LA)
+http://f.ok2.se:8000/Karine/Karine/413
+#EXTINF:0 tvg-chno="0" tvg-name="URUGUAY NATURAL TV (URU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",URUGUAY NATURAL TV (URU)
+http://f.ok2.se:8000/Karine/Karine/86894
+#EXTINF:0 tvg-chno="0" tvg-name="VENEVISION (NA) - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",VENEVISION (NA) - NEW
+http://f.ok2.se:8000/Karine/Karine/69022
+#EXTINF:0 tvg-chno="0" tvg-name="VENEVISION (VEN)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",VENEVISION (VEN)
+http://f.ok2.se:8000/Karine/Karine/15329
+#EXTINF:0 tvg-chno="0" tvg-name="WAPA TV (PUERTO RICO)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",WAPA TV (PUERTO RICO)
+http://f.ok2.se:8000/Karine/Karine/65593
+#EXTINF:0 tvg-chno="0" tvg-name="WILLAX (PERU)" tvg-logo="Logo N/A" tvg-ID="" group-title="CANALES VARIOS",WILLAX (PERU)
+http://f.ok2.se:8000/Karine/Karine/15304
+#EXTINF:0 tvg-chno="0" tvg-name="BEIN DEPORTES HD (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",BEIN DEPORTES HD (ES)
+http://f.ok2.se:8000/Karine/Karine/236
+#EXTINF:0 tvg-chno="0" tvg-name="BEIN DEPORTES HD (H264)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",BEIN DEPORTES HD (H264)
+http://f.ok2.se:8000/Karine/Karine/38491
+#EXTINF:0 tvg-chno="0" tvg-name="BEIN DEPORTES HD (H265) - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",BEIN DEPORTES HD (H265) - NEW
+http://f.ok2.se:8000/Karine/Karine/65724
+#EXTINF:0 tvg-chno="0" tvg-name="CDF (CHILE)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",CDF (CHILE)
+http://f.ok2.se:8000/Karine/Karine/15344
+#EXTINF:0 tvg-chno="0" tvg-name="CDF PREMIUM (CHILE)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",CDF PREMIUM (CHILE)
+http://f.ok2.se:8000/Karine/Karine/79004
+#EXTINF:0 tvg-chno="0" tvg-name="CDN 2 (DR)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",CDN 2 (DR)
+http://f.ok2.se:8000/Karine/Karine/8953
+#EXTINF:0 tvg-chno="0" tvg-name="CDN 37 (DR)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",CDN 37 (DR)
+http://f.ok2.se:8000/Karine/Karine/8952
+#EXTINF:0 tvg-chno="0" tvg-name="CDO (CHILE)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",CDO (CHILE)
+http://f.ok2.se:8000/Karine/Karine/15343
+#EXTINF:0 tvg-chno="0" tvg-name="DIRECTV SPORTS 1 HD (SP)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",DIRECTV SPORTS 1 HD (SP)
+http://f.ok2.se:8000/Karine/Karine/64391
+#EXTINF:0 tvg-chno="0" tvg-name="DIRECTV SPORTS 2 HD (SP)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",DIRECTV SPORTS 2 HD (SP)
+http://f.ok2.se:8000/Karine/Karine/64390
+#EXTINF:0 tvg-chno="0" tvg-name="DIRECTV SPORTS+ HD (SP)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",DIRECTV SPORTS+ HD (SP)
+http://f.ok2.se:8000/Karine/Karine/64389
+#EXTINF:0 tvg-chno="0" tvg-name="ESPN DEPORTES HD (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",ESPN DEPORTES HD (ES)
+http://f.ok2.se:8000/Karine/Karine/238
+#EXTINF:0 tvg-chno="0" tvg-name="ESPN HD DEPORTES" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",ESPN HD DEPORTES
+http://f.ok2.se:8000/Karine/Karine/8505
+#EXTINF:0 tvg-chno="0" tvg-name="FOX DEPORTES (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",FOX DEPORTES (ES)
+http://f.ok2.se:8000/Karine/Karine/237
+#EXTINF:0 tvg-chno="0" tvg-name="FOX DEPORTES HD (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",FOX DEPORTES HD (ES)
+http://f.ok2.se:8000/Karine/Karine/436
+#EXTINF:0 tvg-chno="0" tvg-name="FOX SPORTS 2 HD (LATIN AMERICA) (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",FOX SPORTS 2 HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/Karine/Karine/39680
+#EXTINF:0 tvg-chno="0" tvg-name="FOX SPORTS 3 HD (LATIN AMERICA) (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",FOX SPORTS 3 HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/Karine/Karine/39681
+#EXTINF:0 tvg-chno="0" tvg-name="FOX SPORTS HD (LATIN AMERICA) (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",FOX SPORTS HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/Karine/Karine/39679
+#EXTINF:0 tvg-chno="0" tvg-name="GOL TV (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",GOL TV (ES)
+http://f.ok2.se:8000/Karine/Karine/235
+#EXTINF:0 tvg-chno="0" tvg-name="GOL TV (ES) - NEW" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",GOL TV (ES) - NEW
+http://f.ok2.se:8000/Karine/Karine/424
+#EXTINF:0 tvg-chno="0" tvg-name="GOLTV HD (ECUADOR)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",GOLTV HD (ECUADOR)
+http://f.ok2.se:8000/Karine/Karine/69512
+#EXTINF:0 tvg-chno="0" tvg-name="TYC SPORTS HD (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",TYC SPORTS HD (ES)
+http://f.ok2.se:8000/Karine/Karine/27629
+#EXTINF:0 tvg-chno="0" tvg-name="TYC SPORTS INT (ARGENTINA)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",TYC SPORTS INT (ARGENTINA)
+http://f.ok2.se:8000/Karine/Karine/437
+#EXTINF:0 tvg-chno="0" tvg-name="TYC SPORTS INT (ES)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",TYC SPORTS INT (ES)
+http://f.ok2.se:8000/Karine/Karine/240
+#EXTINF:0 tvg-chno="0" tvg-name="UNIVISION DEPORTES" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",UNIVISION DEPORTES
+http://f.ok2.se:8000/Karine/Karine/423
+#EXTINF:0 tvg-chno="0" tvg-name="WIN SPORTS (COL)" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTIVOS",WIN SPORTS (COL)
+http://f.ok2.se:8000/Karine/Karine/15130
