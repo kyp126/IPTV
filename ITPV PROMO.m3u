@@ -1,191 +1,297 @@
-#EXTINF:-1,A&E
-http://23.237.54.42/hls/A-AND-EMX.m3u8
-
-#EXTINF:-1,ANIMAL PLANET
-http://23.237.54.42/hls/ANIMALPLANETMX.m3u8
-
-#EXTINF:-1,AXN
-http://23.237.54.42/hls/AXNMX.m3u8
-
-#EXTINF:-1,AZMUNDO
-http://23.237.54.42/hls/AZMUNDOMX.m3u8
-
-#EXTINF:-1,AZTECA UNO
-http://23.237.54.42/hls/AZTECA1MX.m3u8
-
-#EXTINF:-1,BOOMERANG
-http://23.237.54.42/hls/BOOMERANGMX.m3u8
-
-#EXTINF:-1,CANAL 5
-http://23.237.54.42/hls/CANAL5MX.m3u8
-
-#EXTINF:-1,CANAL 9
-http://23.237.54.42/hls/CANAL9MX.m3u8
-
-#EXTINF:-1,CANAL ONCE
-http://23.237.54.42/hls/CANAL11MX.m3u8
-
-#EXTINF:-1,CARTOON NETWOR
-http://23.237.54.42/hls/CARTOONNETWORKMX.m3u8
-
-#EXTINF:-1,CINECANAL
-http://23.237.54.42/hls/CINECANALMX.m3u8
-
-#EXTINF:-1,CINEMAX
-http://23.237.54.42/hls/CINEMAXMX.m3u8
-
-#EXTINF:-1,DISCOVERI CHANEL
-http://23.237.54.42/hls/DISCOVERYCHANNELMX.m3u8
-
-#EXTINF:-1,DISCOVERY KIDS
-http://23.237.54.42/hls/DISCOVERYKIDSMX.m3u8
-
-#EXTINF:-1,DISCOVERY TURBO
-http://23.237.54.42/hls/DISCOVERYTURBOHDMX.m3u8
-
-#EXTINF:-1,DISCOVRY SCIENCIE
-http://23.237.54.42/hls/DISCOVERYSCIENCEMX.m3u8
-
-#EXTINF:-1,DISNET JUNIOR
-http://23.237.54.42/hls/DISNEYJUNIORMX.m3u8
-
-#EXTINF:-1,DISNEY CHANNEL
-http://23.237.54.42/hls/DISNEYCHANNELMX.m3u8
-
-#EXTINF:-1,DISNEY XD
-http://23.237.54.42/hls/DISNEYXDMX.m3u8
-
-#EXTINF:-1,DISTRITOCOMEDIA
-http://23.237.54.42/hls/DISTRITOCOMEDIAMX.m3u8
-
-#EXTINF:-1,ESPN
-http://23.237.54.42/hls/ESPNMX.m3u8
-
-#EXTINF:-1,ESPN 2
-http://23.237.54.42/hls/ESPN2MX.m3u8
-
-#EXTINF:-1,ESPN 3
-http://23.237.54.42/hls/ESPN3MX.m3u8
-
-#EXTINF:-1,FORO TV
-http://23.237.54.42/hls/FOROTVMX.m3u8
-
-#EXTINF:-1,FOX
-http://23.237.54.42/hls/FOXMX.m3u8
-
-#EXTINF:-1,FOX ACTION
-http://23.237.54.42/hls/FOXACTIONMX.m3u8
-
-#EXTINF:-1,FOX CINEMA
-http://23.237.54.42/hls/FOXCINEMAMX.m3u8
-
-#EXTINF:-1,FOX CLASIC
-http://23.237.54.42/hls/FOXCLASSICMX.m3u8
-
-#EXTINF:-1,FOX MOVIES
-http://23.237.54.42/hls/FOXMOVIESMX.m3u8
-
-#EXTINF:-1,FOX SERIES
-http://23.237.54.42/hls/FOXSERIESMX.m3u8
-
-#EXTINF:-1,FOXSPORTS
-http://23.237.54.42/hls/FOXSPORTSMX.m3u8
-
-#EXTINF:-1,FOXSPORTS 2
-http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
-
-#EXTINF:-1,FOXSPORTS 3
-http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
-
-#EXTINF:-1,FX
-http://23.237.54.42/hls/FXMX.m3u8
-
-#EXTINF:-1,GALAVISION
-http://23.237.32.130/hls/GALAVISION.m3u8
-
-#EXTINF:-1,GOLDEN
-http://23.237.54.42/hls/GOLDENMX.m3u8
-
-#EXTINF:-1,GOLDEN EDGE
-http://23.237.54.42/hls/GOLDENEDGEMX.m3u8
-
-#EXTINF:-1,GOLDEN PLUS
-http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
-
-#EXTINF:-1,GOURMET
-http://23.237.54.42/hls/GOURMETMX.m3u8
-
-#EXTINF:-1,HISTORY
-http://23.237.54.42/hls/HISTORYMX.m3u8
-
-#EXTINF:-1,ID
-http://23.237.54.42/hls/INVESTIGATIONDISCOVERYMX.m3u8
-
-#EXTINF:-1,IMAGEN TV
-http://23.237.54.42/hls/IMAGENTVMX.m3u8
-
-#EXTINF:-1,LAS ESTRELLAS
-http://23.237.54.42/hls/LASESTRELLASMX.m3u8
-
-#EXTINF:-1,MTV
-http://23.237.54.42/hls/MTVMX.m3u8
-
-#EXTINF:-1,NAT GEO
-http://23.237.54.42/hls/NATGEOMX.m3u8
-
-#EXTINF:-1,NATGEO KIDS
-http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
-
-#EXTINF:-1,NATGEO WILL
-http://23.237.54.42/hls/NATGEOWILDMX.m3u8
-
-#EXTINF:-1,NICK
-http://23.237.54.42/hls/NICKMX.m3u8
-
-#EXTINF:-1,NICK JR
-http://23.237.54.42/hls/NICKJUNIORMX.m3u8
-
-#EXTINF:-1,NICKTOONS
-http://23.237.54.42/hls/NICKTOONSMX.m3u8
-
-#EXTINF:-1,PARAMOUNT
-http://23.237.54.42/hls/PARAMOUNTCHANNELMX.m3u8
-
-#EXTINF:-1,SONY
-http://23.237.54.42/hls/SONYMX.m3u8
-
-#EXTINF:-1,SPACE
-http://23.237.54.42/hls/SPACEMX.m3u8
-
-#EXTINF:-1,SYFY
-http://23.237.54.42/hls/SYFYMX.m3u8
-
-#EXTINF:-1,TBS
-http://23.237.54.42/hls/TBSMX.m3u8
-
-#EXTINF:-1,TCM
-http://23.237.54.42/hls/TCMMX.m3u8
-
-#EXTINF:-1,TLC
-http://23.237.54.42/hls/TLCMX.m3u8
-
-#EXTINF:-1,TLNOVELAS
-http://23.237.32.130/hls/TLNOVELAS.m3u8
-
+#EXTM3U
+#EXTINF:-1,Azteca 7
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/1
+#EXTINF:-1,Canal 5
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/2
+#EXTINF:-1,TUDN
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/3
+#EXTINF:-1,Latina
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/4
+#EXTINF:-1,America TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/5
+#EXTINF:-1,Gol Peru
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/6
+#EXTINF:-1,Gol TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/7
+#EXTINF:-1,Win Sports
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/8
+#EXTINF:-1,TNT Sports
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/9
+#EXTINF:-1,Fox Sports Premium
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/10
+#EXTINF:-1,TYC Sports
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/11
+#EXTINF:-1,Fox Sports
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/12
+#EXTINF:-1,Fox Sports 2
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/13
+#EXTINF:-1,Fox Sports 3
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/14
+#EXTINF:-1,Espn Deportes
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/15
+#EXTINF:-1,Espn Plus
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/16
+#EXTINF:-1,Espn Sur
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/17
+#EXTINF:-1,Espn 2 Sur
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/18
+#EXTINF:-1,Espn 3 Sur
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/19
+#EXTINF:-1,Directv Sports
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/20
+#EXTINF:-1,Directv Sports 2
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/21
+#EXTINF:-1,Directv Sports Plus
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/22
+#EXTINF:-1,Bein La Liga
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/23
+#EXTINF:-1,Fox Sports Mexico
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/24
+#EXTINF:-1,Fox Sports 2 Mexico
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/25
+#EXTINF:-1,Fox Sports 3 Mexico
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/26
+#EXTINF:-1,Espn Mexico
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/27
+#EXTINF:-1,Espn 2 Mexico
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/28
+#EXTINF:-1,Espn 3 Mexico
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/29
+#EXTINF:-1,Afizzionados
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/30
+#EXTINF:-1,HBO
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/31
+#EXTINF:-1,HBO 2
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/32
+#EXTINF:-1,HBO PLUS
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/33
+#EXTINF:-1,HBO Family
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/34
+#EXTINF:-1,HBO Xtreme
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/35
+#EXTINF:-1,HBO POP
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/36
+#EXTINF:-1,Fox Premium Action MX
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/37
+#EXTINF:-1,Fox Premium Series
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/38
+#EXTINF:-1,Space
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/39
+#EXTINF:-1,Warner Bros TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/40
 #EXTINF:-1,TNT
-http://23.237.54.42/hls/TNTMX.m3u8
-
-#EXTINF:-1,TOONCAST
-http://23.237.54.42/hls/TOONCASTMX.m3u8
-
-#EXTINF:-1,TV MAS
-http://23.237.54.42/hls/TVMASMX.m3u8
-
-#EXTINF:-1,UNIMAS
-http://23.237.32.130/hls/UNIMAS.m3u8
-
-#EXTINF:-1,UNIVISION
-http://23.237.32.130/hls/UNIVISION.m3u8
-
-#EXTINF:-1,WARNER
-http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/41
+#EXTINF:-1,FOX
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/42
+#EXTINF:-1,Cinemax
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/43
+#EXTINF:-1,Cinecanal
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/44
+#EXTINF:-1,Telefe
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/45
+#EXTINF:-1,El Trece
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/46
+#EXTINF:-1,Distrito Comedia
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/47
+#EXTINF:-1,Telemundo
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/48
+#EXTINF:-1,History
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/49
+#EXTINF:-1,History 2
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/50
+#EXTINF:-1,Pasiones
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/51
+#EXTINF:-1,Azteca Uno
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/52
+#EXTINF:-1,Az mundo
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/53
+#EXTINF:-1,Az Cinema
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/54
+#EXTINF:-1,Galavision
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/55
+#EXTINF:-1,Tlnovelas
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/56
+#EXTINF:-1,Las Estrellas
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/57
+#EXTINF:-1,Syfy
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/58
+#EXTINF:-1,Caracol
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/59
+#EXTINF:-1,TVC Deportes
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/60
+#EXTINF:-1,ATV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/61
+#EXTINF:-1,Univision
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/62
+#EXTINF:-1,Unicable
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/63
+#EXTINF:-1,Unimas
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/64
+#EXTINF:-1,Imagen TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/65
+#EXTINF:-1,CNN Español
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/66
+#EXTINF:-1,RT Noticias
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/67
+#EXTINF:-1,Fox Premium Movies
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/68
+#EXTINF:-1,Fox Premium Family
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/69
+#EXTINF:-1,FX
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/70
+#EXTINF:-1,FXM
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/71
+#EXTINF:-1,Fox Life
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/72
+#EXTINF:-1,Golden Plus
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/73
+#EXTINF:-1,Golden Edge
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/74
+#EXTINF:-1,Golden Premier
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/75
+#EXTINF:-1,TNT Series
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/76
+#EXTINF:-1,Canal Sony
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/77
+#EXTINF:-1,AXN
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/78
+#EXTINF:-1,Universal Channel
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/79
+#EXTINF:-1,Studio Universal
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/80
+#EXTINF:-1,Multipremier
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/81
+#EXTINF:-1,AMC
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/82
+#EXTINF:-1,Paramount Channel
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/83
+#EXTINF:-1,Cine Latino
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/84
+#EXTINF:-1,Dpelicula
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/85
+#EXTINF:-1,Isat
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/86
+#EXTINF:-1,MTV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/87
+#EXTINF:-1,MTV Hits
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/88
+#EXTINF:-1,HTV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/89
+#EXTINF:-1,Bandamax
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/90
+#EXTINF:-1,Comedy Central
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/91
+#EXTINF:-1,National Geographic
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/92
+#EXTINF:-1,Nat Geo wild
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/93
+#EXTINF:-1,Animal Planet
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/94
+#EXTINF:-1,Discovery Channel
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/95
+#EXTINF:-1,Discovery Turbo
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/96
+#EXTINF:-1,Discovery HYH
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/97
+#EXTINF:-1,ID Investigation
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/98
+#EXTINF:-1,Discovery A&E
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/99
+#EXTINF:-1,Discovery TLC
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/100
+#EXTINF:-1,Discovery Theater
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/101
+#EXTINF:-1,Discovery World
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/102
+#EXTINF:-1,Everything
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/103
+#EXTINF:-1,Lifetime
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/104
+#EXTINF:-1,TBS
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/105
+#EXTINF:-1,El Gourmet
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/106
+#EXTINF:-1,Disney Channel
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/107
+#EXTINF:-1,Disney XD
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/108
+#EXTINF:-1,Disney Junior
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/109
+#EXTINF:-1,Nick
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/110
+#EXTINF:-1,Nick 2
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/111
+#EXTINF:-1,Nick JR
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/112
+#EXTINF:-1,Nicktoons
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/113
+#EXTINF:-1,Cartoon Network
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/114
+#EXTINF:-1,Boomerang
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/115
+#EXTINF:-1,Tooncast
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/116
+#EXTINF:-1,Discovery Kids
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/117
+#EXTINF:-1,Nat Geo kids
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/118
+#EXTINF:-1,Boing
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/119
+#EXTINF:-1,VH1
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/120
+#EXTINF:-1,Vh1 Classic
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/121
+#EXTINF:-1,Telehit
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/122
+#EXTINF:-1,Top Latino
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/123
+#EXTINF:-1,Hustler TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/124
+#EXTINF:-1,NBA
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/125
+#EXTINF:-1,Venus
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/126
+#EXTINF:-1,ADN 40
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/127
+#EXTINF:-1,Alf 24/7
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/128
+#EXTINF:-1,HBO Signature
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/129
+#EXTINF:-1,HBO Zone
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/130
+#EXTINF:-1,A3Series
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/131
+#EXTINF:-1,Once TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/132
+#EXTINF:-1,Fox Premium Comedy
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/133
+#EXTINF:-1,MLB
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/134
+#EXTINF:-1,Brazzer TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/135
+#EXTINF:-1,Hola TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/136
+#EXTINF:-1,Tru TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/137
+#EXTINF:-1,Fox Premium Action Sur
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/138
+#EXTINF:-1,Fox Premium Classic
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/139
+#EXTINF:-1,Win Sports Plus
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/140
+#EXTINF:-1,Panamericana
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/141
+#EXTINF:-1,NBC Universo
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/142
+#EXTINF:-1,Foro TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/143
+#EXTINF:-1,Sextreme
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/144
+#EXTINF:-1,CBS Sports
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/146
+#EXTINF:-1,NBC Sports Usa
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/147
+#EXTINF:-1,Espn Usa
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/148
+#EXTINF:-1,Caracol TV
+http://23.237.173.123:25461/tvplayerappk/pbndfyhweyer/149
